@@ -1,0 +1,7548 @@
+﻿{
+  "Eid": "469055",
+  "Pids": {
+    "1": "3610077",
+    "6": "27751348",
+    "8": "469055",
+    "12": "SBTE_25535339"
+  },
+  "Sids": {
+    "1": "873678",
+    "6": "56620",
+    "8": "7126",
+    "12": "SBTC3_40253",
+    "15": "1"
+  },
+  "Media": {
+    "12": [
+      {
+        "eventId": "BT Sport 1",
+        "provider": "ABELSON",
+        "allowedCountries": [
+          "GB",
+          "IE"
+        ],
+        "type": "TV_CHANNEL"
+      }
+    ]
+  },
+  "Tr1": "3",
+  "Tr2": "2",
+  "Trh1": "1",
+  "Trh2": "2",
+  "Tr1OR": "3",
+  "Tr2OR": "2",
+  "T1": [
+    {
+      "Nm": "West Ham United",
+      "ID": "252",
+      "tbd": 0,
+      "Img": "enet/8654.png",
+      "Gd": 1,
+      "Pids": {
+        "1": [
+          "8654"
+        ],
+        "6": [
+          "37"
+        ],
+        "8": [
+          "252"
+        ],
+        "12": [
+          "SBTP_376"
+        ],
+        "15": [
+          "20"
+        ]
+      },
+      "CoNm": "England",
+      "CoId": "GBR",
+      "Shrt": {
+        "Bs": "74112e",
+        "Sl": "74112e",
+        "Nmb": "ffffff",
+        "Sq": false,
+        "St": false,
+        "Hst": false,
+        "Spl": false,
+        "Sld": "bbd6e9"
+      },
+      "HasVideo": true,
+      "NewsTag": "/team/west-ham-2021020913320920836-94/",
+      "EL": [
+        {
+          "T1": [
+            {
+              "Nm": "West Ham United",
+              "ID": "252",
+              "tbd": 0,
+              "Img": "enet/8654.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8654"
+                ],
+                "6": [
+                  "37"
+                ],
+                "8": [
+                  "252"
+                ],
+                "12": [
+                  "SBTP_376"
+                ],
+                "15": [
+                  "20"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "74112e",
+                "Sl": "74112e",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "bbd6e9"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/west-ham-2021020913320920836-94/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Chelsea",
+              "ID": "2881",
+              "tbd": 0,
+              "Img": "enet/8455.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8455"
+                ],
+                "6": [
+                  "38"
+                ],
+                "8": [
+                  "2881"
+                ],
+                "12": [
+                  "SBTP_231"
+                ],
+                "15": [
+                  "8"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "1532c1",
+                "Sl": "1532c1",
+                "Nmb": "ffffff",
+                "Sq": true,
+                "SqC": "0a0372",
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "0a0372"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/chelsea-2021020913320920836-82/"
+            }
+          ],
+          "Tr1": "3",
+          "Tr2": "2",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 1,
+          "Esd": 20211204123000,
+          "Stg": {
+            "Sid": "7126",
+            "Snm": "Premier League",
+            "Sds": "Premier League",
+            "Scd": "premier-league",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "10",
+            "CompN": "Premier League",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Premier League"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "West Ham United",
+              "ID": "252",
+              "tbd": 0,
+              "Img": "enet/8654.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8654"
+                ],
+                "6": [
+                  "37"
+                ],
+                "8": [
+                  "252"
+                ],
+                "12": [
+                  "SBTP_376"
+                ],
+                "15": [
+                  "20"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "74112e",
+                "Sl": "74112e",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "bbd6e9"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/west-ham-2021020913320920836-94/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Brighton & Hove Albion",
+              "ID": "2918",
+              "tbd": 0,
+              "Img": "enet/10204.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "10204"
+                ],
+                "6": [
+                  "30"
+                ],
+                "8": [
+                  "2918"
+                ],
+                "12": [
+                  "SBTP_372"
+                ],
+                "15": [
+                  "6"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "0935e1",
+                "Sl": "0935e1",
+                "Nmb": "fafafa",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "f8fafc"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/brighton-2021020913320920836-134/"
+            }
+          ],
+          "Tr1": "1",
+          "Tr2": "1",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 0,
+          "Esd": 20211201193000,
+          "Stg": {
+            "Sid": "7126",
+            "Snm": "Premier League",
+            "Sds": "Premier League",
+            "Scd": "premier-league",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "10",
+            "CompN": "Premier League",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Premier League"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "Manchester City",
+              "ID": "12633",
+              "tbd": 0,
+              "Img": "enet/8456.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8456"
+                ],
+                "6": [
+                  "17"
+                ],
+                "8": [
+                  "12633"
+                ],
+                "12": [
+                  "SBTP_240"
+                ],
+                "15": [
+                  "12"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "5badff",
+                "Sl": "5badff",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "5badff"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/manchester-city-2021020913320920836-104/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "West Ham United",
+              "ID": "252",
+              "tbd": 0,
+              "Img": "enet/8654.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8654"
+                ],
+                "6": [
+                  "37"
+                ],
+                "8": [
+                  "252"
+                ],
+                "12": [
+                  "SBTP_376"
+                ],
+                "15": [
+                  "20"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "74112e",
+                "Sl": "74112e",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "bbd6e9"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/west-ham-2021020913320920836-94/"
+            }
+          ],
+          "Tr1": "2",
+          "Tr2": "1",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 1,
+          "Esd": 20211128140000,
+          "Stg": {
+            "Sid": "7126",
+            "Snm": "Premier League",
+            "Sds": "Premier League",
+            "Scd": "premier-league",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "10",
+            "CompN": "Premier League",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Premier League"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "Rapid Wien",
+              "ID": "4647",
+              "tbd": 0,
+              "Img": "enet/10015.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "10015"
+                ],
+                "6": [
+                  "2055"
+                ],
+                "8": [
+                  "4647"
+                ],
+                "12": [
+                  "SBTP_5774"
+                ],
+                "15": [
+                  "686"
+                ]
+              },
+              "CoNm": "Austria",
+              "CoId": "AUT",
+              "Shrt": {
+                "Bs": "ffffff",
+                "Sl": "00b336",
+                "Nmb": "01b20d",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "fcfcfc"
+              },
+              "HasVideo": false
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "West Ham United",
+              "ID": "252",
+              "tbd": 0,
+              "Img": "enet/8654.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8654"
+                ],
+                "6": [
+                  "37"
+                ],
+                "8": [
+                  "252"
+                ],
+                "12": [
+                  "SBTP_376"
+                ],
+                "15": [
+                  "20"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "74112e",
+                "Sl": "74112e",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "bbd6e9"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/west-ham-2021020913320920836-94/"
+            }
+          ],
+          "Tr1": "0",
+          "Tr2": "2",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 2,
+          "Esd": 20211125174500,
+          "Stg": {
+            "Sid": "8004",
+            "Snm": "Group H",
+            "Sds": "Group H",
+            "Scd": "group-h",
+            "Cid": "159",
+            "Cnm": "Europa League",
+            "Csnm": "Europa League",
+            "Ccd": "europa-league",
+            "Ccdiso": "NON",
+            "CompId": "36",
+            "CompN": "Europa League",
+            "CompD": "UEFA",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Group H"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "Wolverhampton Wanderers",
+              "ID": "2985",
+              "tbd": 0,
+              "Img": "enet/8602.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8602"
+                ],
+                "6": [
+                  "3"
+                ],
+                "8": [
+                  "2985"
+                ],
+                "12": [
+                  "SBTP_375"
+                ],
+                "15": [
+                  "21"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "fecd32",
+                "Sl": "fecd32",
+                "Nmb": "000000",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "000000"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/wolverhampton-wanderers-2021020913320920836-109/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "West Ham United",
+              "ID": "252",
+              "tbd": 0,
+              "Img": "enet/8654.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8654"
+                ],
+                "6": [
+                  "37"
+                ],
+                "8": [
+                  "252"
+                ],
+                "12": [
+                  "SBTP_376"
+                ],
+                "15": [
+                  "20"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "74112e",
+                "Sl": "74112e",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "bbd6e9"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/west-ham-2021020913320920836-94/"
+            }
+          ],
+          "Tr1": "1",
+          "Tr2": "0",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 1,
+          "Esd": 20211120150000,
+          "Stg": {
+            "Sid": "7126",
+            "Snm": "Premier League",
+            "Sds": "Premier League",
+            "Scd": "premier-league",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "10",
+            "CompN": "Premier League",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Premier League"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "West Ham United",
+              "ID": "252",
+              "tbd": 0,
+              "Img": "enet/8654.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8654"
+                ],
+                "6": [
+                  "37"
+                ],
+                "8": [
+                  "252"
+                ],
+                "12": [
+                  "SBTP_376"
+                ],
+                "15": [
+                  "20"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "74112e",
+                "Sl": "74112e",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "bbd6e9"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/west-ham-2021020913320920836-94/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Liverpool",
+              "ID": "3340",
+              "tbd": 0,
+              "Img": "enet/8650.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8650"
+                ],
+                "6": [
+                  "44"
+                ],
+                "8": [
+                  "3340"
+                ],
+                "12": [
+                  "SBTP_246"
+                ],
+                "15": [
+                  "1"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "fa0000",
+                "Sl": "f90101",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "f94b01"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/liverpool-2021020913320920836-92/"
+            }
+          ],
+          "Tr1": "3",
+          "Tr2": "2",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 1,
+          "Esd": 20211107163000,
+          "Stg": {
+            "Sid": "7126",
+            "Snm": "Premier League",
+            "Sds": "Premier League",
+            "Scd": "premier-league",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "10",
+            "CompN": "Premier League",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Premier League"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "Genk",
+              "ID": "286",
+              "tbd": 0,
+              "Img": "enet/9987.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "9987"
+                ],
+                "6": [
+                  "2890"
+                ],
+                "8": [
+                  "286"
+                ],
+                "12": [
+                  "SBTP_1740"
+                ]
+              },
+              "CoNm": "Belgium",
+              "CoId": "BEL",
+              "Shrt": {
+                "Bs": "1c5ab3",
+                "Sl": "1c5ab3",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "ffffff"
+              },
+              "HasVideo": false
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "West Ham United",
+              "ID": "252",
+              "tbd": 0,
+              "Img": "enet/8654.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8654"
+                ],
+                "6": [
+                  "37"
+                ],
+                "8": [
+                  "252"
+                ],
+                "12": [
+                  "SBTP_376"
+                ],
+                "15": [
+                  "20"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "74112e",
+                "Sl": "74112e",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "bbd6e9"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/west-ham-2021020913320920836-94/"
+            }
+          ],
+          "Tr1": "2",
+          "Tr2": "2",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 0,
+          "Esd": 20211104174500,
+          "Stg": {
+            "Sid": "8004",
+            "Snm": "Group H",
+            "Sds": "Group H",
+            "Scd": "group-h",
+            "Cid": "159",
+            "Cnm": "Europa League",
+            "Csnm": "Europa League",
+            "Ccd": "europa-league",
+            "Ccdiso": "NON",
+            "CompId": "36",
+            "CompN": "Europa League",
+            "CompD": "UEFA",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Group H"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "Aston Villa",
+              "ID": "3863",
+              "tbd": 0,
+              "Img": "enet/10252.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "10252"
+                ],
+                "6": [
+                  "40"
+                ],
+                "8": [
+                  "3863"
+                ],
+                "12": [
+                  "SBTP_232"
+                ],
+                "15": [
+                  "5"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "88002d",
+                "Sl": "93c9ff",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "93c9ff"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/aston-villa-2021020913320920836-101/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "West Ham United",
+              "ID": "252",
+              "tbd": 0,
+              "Img": "enet/8654.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8654"
+                ],
+                "6": [
+                  "37"
+                ],
+                "8": [
+                  "252"
+                ],
+                "12": [
+                  "SBTP_376"
+                ],
+                "15": [
+                  "20"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "74112e",
+                "Sl": "74112e",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "bbd6e9"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/west-ham-2021020913320920836-94/"
+            }
+          ],
+          "Tr1": "1",
+          "Tr2": "4",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 2,
+          "Esd": 20211031163000,
+          "Stg": {
+            "Sid": "7126",
+            "Snm": "Premier League",
+            "Sds": "Premier League",
+            "Scd": "premier-league",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "10",
+            "CompN": "Premier League",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Premier League"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "West Ham United",
+              "ID": "252",
+              "tbd": 0,
+              "Img": "enet/8654.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8654"
+                ],
+                "6": [
+                  "37"
+                ],
+                "8": [
+                  "252"
+                ],
+                "12": [
+                  "SBTP_376"
+                ],
+                "15": [
+                  "20"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "74112e",
+                "Sl": "74112e",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "bbd6e9"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/west-ham-2021020913320920836-94/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Manchester City",
+              "ID": "12633",
+              "tbd": 0,
+              "Img": "enet/8456.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8456"
+                ],
+                "6": [
+                  "17"
+                ],
+                "8": [
+                  "12633"
+                ],
+                "12": [
+                  "SBTP_240"
+                ],
+                "15": [
+                  "12"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "5badff",
+                "Sl": "5badff",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "5badff"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/manchester-city-2021020913320920836-104/"
+            }
+          ],
+          "Tr1": "0",
+          "Tr2": "0",
+          "Esid": 13,
+          "Eps": "AP",
+          "Epr": 2,
+          "Ewt": 1,
+          "Esd": 20211027184500,
+          "Stg": {
+            "Sid": "7233",
+            "Snm": "EFL Cup",
+            "Sds": "EFL Cup",
+            "Scd": "efl-cup",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "33",
+            "CompN": "EFL Cup",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 1,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "EFL Cup"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "West Ham United",
+              "ID": "252",
+              "tbd": 0,
+              "Img": "enet/8654.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8654"
+                ],
+                "6": [
+                  "37"
+                ],
+                "8": [
+                  "252"
+                ],
+                "12": [
+                  "SBTP_376"
+                ],
+                "15": [
+                  "20"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "74112e",
+                "Sl": "74112e",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "bbd6e9"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/west-ham-2021020913320920836-94/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Tottenham Hotspur",
+              "ID": "3339",
+              "tbd": 0,
+              "Img": "enet/8586.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8586"
+                ],
+                "6": [
+                  "33"
+                ],
+                "8": [
+                  "3339"
+                ],
+                "12": [
+                  "SBTP_242"
+                ],
+                "15": [
+                  "18"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "ffffff",
+                "Sl": "ffffff",
+                "Nmb": "000066",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "ffffff"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/tottenham-2021020913320920836-89/"
+            }
+          ],
+          "Tr1": "1",
+          "Tr2": "0",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 1,
+          "Esd": 20211024130000,
+          "Stg": {
+            "Sid": "7126",
+            "Snm": "Premier League",
+            "Sds": "Premier League",
+            "Scd": "premier-league",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "10",
+            "CompN": "Premier League",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Premier League"
+          }
+        }
+      ],
+      "Spid": 1
+    }
+  ],
+  "T2": [
+    {
+      "Nm": "Chelsea",
+      "ID": "2881",
+      "tbd": 0,
+      "Img": "enet/8455.png",
+      "Gd": 1,
+      "Pids": {
+        "1": [
+          "8455"
+        ],
+        "6": [
+          "38"
+        ],
+        "8": [
+          "2881"
+        ],
+        "12": [
+          "SBTP_231"
+        ],
+        "15": [
+          "8"
+        ]
+      },
+      "CoNm": "England",
+      "CoId": "GBR",
+      "Shrt": {
+        "Bs": "1532c1",
+        "Sl": "1532c1",
+        "Nmb": "ffffff",
+        "Sq": true,
+        "SqC": "0a0372",
+        "St": false,
+        "Hst": false,
+        "Spl": false,
+        "Sld": "0a0372"
+      },
+      "HasVideo": true,
+      "NewsTag": "/team/chelsea-2021020913320920836-82/",
+      "EL": [
+        {
+          "T1": [
+            {
+              "Nm": "West Ham United",
+              "ID": "252",
+              "tbd": 0,
+              "Img": "enet/8654.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8654"
+                ],
+                "6": [
+                  "37"
+                ],
+                "8": [
+                  "252"
+                ],
+                "12": [
+                  "SBTP_376"
+                ],
+                "15": [
+                  "20"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "74112e",
+                "Sl": "74112e",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "bbd6e9"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/west-ham-2021020913320920836-94/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Chelsea",
+              "ID": "2881",
+              "tbd": 0,
+              "Img": "enet/8455.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8455"
+                ],
+                "6": [
+                  "38"
+                ],
+                "8": [
+                  "2881"
+                ],
+                "12": [
+                  "SBTP_231"
+                ],
+                "15": [
+                  "8"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "1532c1",
+                "Sl": "1532c1",
+                "Nmb": "ffffff",
+                "Sq": true,
+                "SqC": "0a0372",
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "0a0372"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/chelsea-2021020913320920836-82/"
+            }
+          ],
+          "Tr1": "3",
+          "Tr2": "2",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 1,
+          "Esd": 20211204123000,
+          "Stg": {
+            "Sid": "7126",
+            "Snm": "Premier League",
+            "Sds": "Premier League",
+            "Scd": "premier-league",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "10",
+            "CompN": "Premier League",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Premier League"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "Watford",
+              "ID": "3929",
+              "tbd": 0,
+              "Img": "enet/9817.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "9817"
+                ],
+                "6": [
+                  "24"
+                ],
+                "8": [
+                  "3929"
+                ],
+                "12": [
+                  "SBTP_371"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "ffff00",
+                "Sl": "ffff00",
+                "Nmb": "242321",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "242321"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/watford-2021020913320920836-115/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Chelsea",
+              "ID": "2881",
+              "tbd": 0,
+              "Img": "enet/8455.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8455"
+                ],
+                "6": [
+                  "38"
+                ],
+                "8": [
+                  "2881"
+                ],
+                "12": [
+                  "SBTP_231"
+                ],
+                "15": [
+                  "8"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "1532c1",
+                "Sl": "1532c1",
+                "Nmb": "ffffff",
+                "Sq": true,
+                "SqC": "0a0372",
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "0a0372"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/chelsea-2021020913320920836-82/"
+            }
+          ],
+          "Tr1": "1",
+          "Tr2": "2",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 2,
+          "Esd": 20211201193000,
+          "Stg": {
+            "Sid": "7126",
+            "Snm": "Premier League",
+            "Sds": "Premier League",
+            "Scd": "premier-league",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "10",
+            "CompN": "Premier League",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Premier League"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "Chelsea",
+              "ID": "2881",
+              "tbd": 0,
+              "Img": "enet/8455.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8455"
+                ],
+                "6": [
+                  "38"
+                ],
+                "8": [
+                  "2881"
+                ],
+                "12": [
+                  "SBTP_231"
+                ],
+                "15": [
+                  "8"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "1532c1",
+                "Sl": "1532c1",
+                "Nmb": "ffffff",
+                "Sq": true,
+                "SqC": "0a0372",
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "0a0372"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/chelsea-2021020913320920836-82/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Manchester United",
+              "ID": "2810",
+              "tbd": 0,
+              "Img": "enet/10260.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "10260"
+                ],
+                "6": [
+                  "35"
+                ],
+                "8": [
+                  "2810"
+                ],
+                "12": [
+                  "SBTP_235"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "ea0000",
+                "Sl": "ea0000",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "ffffff"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/manchester-united-2021020913320920836-102/"
+            }
+          ],
+          "Tr1": "1",
+          "Tr2": "1",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 0,
+          "Esd": 20211128163000,
+          "Stg": {
+            "Sid": "7126",
+            "Snm": "Premier League",
+            "Sds": "Premier League",
+            "Scd": "premier-league",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "10",
+            "CompN": "Premier League",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Premier League"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "Chelsea",
+              "ID": "2881",
+              "tbd": 0,
+              "Img": "enet/8455.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8455"
+                ],
+                "6": [
+                  "38"
+                ],
+                "8": [
+                  "2881"
+                ],
+                "12": [
+                  "SBTP_231"
+                ],
+                "15": [
+                  "8"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "1532c1",
+                "Sl": "1532c1",
+                "Nmb": "ffffff",
+                "Sq": true,
+                "SqC": "0a0372",
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "0a0372"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/chelsea-2021020913320920836-82/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Juventus",
+              "ID": "4238",
+              "tbd": 0,
+              "Img": "enet/9885.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "9885"
+                ],
+                "6": [
+                  "2687"
+                ],
+                "8": [
+                  "4238"
+                ],
+                "12": [
+                  "SBTP_966"
+                ]
+              },
+              "CoNm": "Italy",
+              "CoId": "ITA",
+              "Shrt": {
+                "Bs": "fcfcfc",
+                "Sl": "000000",
+                "Nmb": "000000",
+                "Sq": false,
+                "St": true,
+                "StC": "000000",
+                "Hst": false,
+                "Spl": false
+              },
+              "HasVideo": false,
+              "NewsTag": "/team/juventus-2021020913320920836-255/"
+            }
+          ],
+          "Tr1": "4",
+          "Tr2": "0",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 1,
+          "Esd": 20211123200000,
+          "Stg": {
+            "Sid": "7997",
+            "Snm": "Group H",
+            "Sds": "Group H",
+            "Scd": "group-h",
+            "Cid": "130",
+            "Cnm": "Champions League",
+            "Csnm": "Champions League",
+            "Ccd": "champions-league",
+            "Ccdiso": "NON",
+            "CompId": "29",
+            "CompN": "Champions League",
+            "CompD": "UEFA",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Group H"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "Leicester City",
+              "ID": "2901",
+              "tbd": 0,
+              "Img": "enet/8197.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8197"
+                ],
+                "6": [
+                  "31"
+                ],
+                "8": [
+                  "2901"
+                ],
+                "12": [
+                  "SBTP_389"
+                ],
+                "15": [
+                  "11"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "0000cd",
+                "Sl": "0000cd",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "d3b664"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/leicester-2021020913320920836-81/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Chelsea",
+              "ID": "2881",
+              "tbd": 0,
+              "Img": "enet/8455.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8455"
+                ],
+                "6": [
+                  "38"
+                ],
+                "8": [
+                  "2881"
+                ],
+                "12": [
+                  "SBTP_231"
+                ],
+                "15": [
+                  "8"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "1532c1",
+                "Sl": "1532c1",
+                "Nmb": "ffffff",
+                "Sq": true,
+                "SqC": "0a0372",
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "0a0372"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/chelsea-2021020913320920836-82/"
+            }
+          ],
+          "Tr1": "0",
+          "Tr2": "3",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 2,
+          "Esd": 20211120123000,
+          "Stg": {
+            "Sid": "7126",
+            "Snm": "Premier League",
+            "Sds": "Premier League",
+            "Scd": "premier-league",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "10",
+            "CompN": "Premier League",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Premier League"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "Chelsea",
+              "ID": "2881",
+              "tbd": 0,
+              "Img": "enet/8455.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8455"
+                ],
+                "6": [
+                  "38"
+                ],
+                "8": [
+                  "2881"
+                ],
+                "12": [
+                  "SBTP_231"
+                ],
+                "15": [
+                  "8"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "1532c1",
+                "Sl": "1532c1",
+                "Nmb": "ffffff",
+                "Sq": true,
+                "SqC": "0a0372",
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "0a0372"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/chelsea-2021020913320920836-82/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Burnley",
+              "ID": "2882",
+              "tbd": 0,
+              "Img": "enet/8191.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8191"
+                ],
+                "6": [
+                  "6"
+                ],
+                "8": [
+                  "2882"
+                ],
+                "12": [
+                  "SBTP_381"
+                ],
+                "15": [
+                  "7"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "990033",
+                "Sl": "64b1ff",
+                "Nmb": "64b1ff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "64b1ff"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/burnley-2021020913320920836-118/"
+            }
+          ],
+          "Tr1": "1",
+          "Tr2": "1",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 0,
+          "Esd": 20211106150000,
+          "Stg": {
+            "Sid": "7126",
+            "Snm": "Premier League",
+            "Sds": "Premier League",
+            "Scd": "premier-league",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "10",
+            "CompN": "Premier League",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Premier League"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "Malmo FF",
+              "ID": "6826",
+              "tbd": 0,
+              "Img": "enet/10237.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "10237"
+                ],
+                "6": [
+                  "1892"
+                ],
+                "8": [
+                  "6826"
+                ],
+                "12": [
+                  "SBTP_1514"
+                ],
+                "15": [
+                  "1470"
+                ]
+              },
+              "CoNm": "Sweden",
+              "CoId": "SWE",
+              "Shrt": {
+                "Bs": "79bcff",
+                "Sl": "71b8ff",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "ffffff"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/malmoe-ff-2021020913320920836-868/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Chelsea",
+              "ID": "2881",
+              "tbd": 0,
+              "Img": "enet/8455.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8455"
+                ],
+                "6": [
+                  "38"
+                ],
+                "8": [
+                  "2881"
+                ],
+                "12": [
+                  "SBTP_231"
+                ],
+                "15": [
+                  "8"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "1532c1",
+                "Sl": "1532c1",
+                "Nmb": "ffffff",
+                "Sq": true,
+                "SqC": "0a0372",
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "0a0372"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/chelsea-2021020913320920836-82/"
+            }
+          ],
+          "Tr1": "0",
+          "Tr2": "1",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 2,
+          "Esd": 20211102174500,
+          "Stg": {
+            "Sid": "7997",
+            "Snm": "Group H",
+            "Sds": "Group H",
+            "Scd": "group-h",
+            "Cid": "130",
+            "Cnm": "Champions League",
+            "Csnm": "Champions League",
+            "Ccd": "champions-league",
+            "Ccdiso": "NON",
+            "CompId": "29",
+            "CompN": "Champions League",
+            "CompD": "UEFA",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Group H"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "Newcastle United",
+              "ID": "2986",
+              "tbd": 0,
+              "Img": "enet/10261.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "10261"
+                ],
+                "6": [
+                  "39"
+                ],
+                "8": [
+                  "2986"
+                ],
+                "12": [
+                  "SBTP_238"
+                ],
+                "15": [
+                  "14"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "000000",
+                "Sl": "000000",
+                "Nmb": "ff0000",
+                "Sq": false,
+                "St": true,
+                "StC": "ffffff",
+                "Hst": false,
+                "Spl": false
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/newcastle-united-2021020913320920836-103/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Chelsea",
+              "ID": "2881",
+              "tbd": 0,
+              "Img": "enet/8455.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8455"
+                ],
+                "6": [
+                  "38"
+                ],
+                "8": [
+                  "2881"
+                ],
+                "12": [
+                  "SBTP_231"
+                ],
+                "15": [
+                  "8"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "1532c1",
+                "Sl": "1532c1",
+                "Nmb": "ffffff",
+                "Sq": true,
+                "SqC": "0a0372",
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "0a0372"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/chelsea-2021020913320920836-82/"
+            }
+          ],
+          "Tr1": "0",
+          "Tr2": "3",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 2,
+          "Esd": 20211030140000,
+          "Stg": {
+            "Sid": "7126",
+            "Snm": "Premier League",
+            "Sds": "Premier League",
+            "Scd": "premier-league",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "10",
+            "CompN": "Premier League",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Premier League"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "Chelsea",
+              "ID": "2881",
+              "tbd": 0,
+              "Img": "enet/8455.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8455"
+                ],
+                "6": [
+                  "38"
+                ],
+                "8": [
+                  "2881"
+                ],
+                "12": [
+                  "SBTP_231"
+                ],
+                "15": [
+                  "8"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "1532c1",
+                "Sl": "1532c1",
+                "Nmb": "ffffff",
+                "Sq": true,
+                "SqC": "0a0372",
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "0a0372"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/chelsea-2021020913320920836-82/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Southampton",
+              "ID": "2902",
+              "tbd": 0,
+              "Img": "enet/8466.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8466"
+                ],
+                "6": [
+                  "45"
+                ],
+                "8": [
+                  "2902"
+                ],
+                "12": [
+                  "SBTP_247"
+                ],
+                "15": [
+                  "17"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "ff0000",
+                "Sl": "ff0000",
+                "Nmb": "ffffff",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "000000"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/southampton-2021020913320920836-84/"
+            }
+          ],
+          "Tr1": "1",
+          "Tr2": "1",
+          "Esid": 13,
+          "Eps": "AP",
+          "Epr": 2,
+          "Ewt": 1,
+          "Esd": 20211026184500,
+          "Stg": {
+            "Sid": "7233",
+            "Snm": "EFL Cup",
+            "Sds": "EFL Cup",
+            "Scd": "efl-cup",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "33",
+            "CompN": "EFL Cup",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 1,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "EFL Cup"
+          }
+        },
+        {
+          "T1": [
+            {
+              "Nm": "Chelsea",
+              "ID": "2881",
+              "tbd": 0,
+              "Img": "enet/8455.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "8455"
+                ],
+                "6": [
+                  "38"
+                ],
+                "8": [
+                  "2881"
+                ],
+                "12": [
+                  "SBTP_231"
+                ],
+                "15": [
+                  "8"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "1532c1",
+                "Sl": "1532c1",
+                "Nmb": "ffffff",
+                "Sq": true,
+                "SqC": "0a0372",
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "0a0372"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/chelsea-2021020913320920836-82/"
+            }
+          ],
+          "T2": [
+            {
+              "Nm": "Norwich City",
+              "ID": "2811",
+              "tbd": 0,
+              "Img": "enet/9850.png",
+              "Gd": 1,
+              "Pids": {
+                "1": [
+                  "9850"
+                ],
+                "6": [
+                  "263"
+                ],
+                "8": [
+                  "2811"
+                ],
+                "12": [
+                  "SBTP_241"
+                ]
+              },
+              "CoNm": "England",
+              "CoId": "GBR",
+              "Shrt": {
+                "Bs": "ffff00",
+                "Sl": "ffff37",
+                "Nmb": "000000",
+                "Sq": false,
+                "St": false,
+                "Hst": false,
+                "Spl": false,
+                "Sld": "00b800"
+              },
+              "HasVideo": true,
+              "NewsTag": "/team/norwich-2021020913320920836-111/"
+            }
+          ],
+          "Tr1": "7",
+          "Tr2": "0",
+          "Esid": 6,
+          "Eps": "FT",
+          "Epr": 2,
+          "Ewt": 1,
+          "Esd": 20211023113000,
+          "Stg": {
+            "Sid": "7126",
+            "Snm": "Premier League",
+            "Sds": "Premier League",
+            "Scd": "premier-league",
+            "Cid": "34",
+            "Cnm": "England",
+            "Csnm": "England",
+            "Ccd": "england",
+            "Ccdiso": "GBR",
+            "CompId": "10",
+            "CompN": "Premier League",
+            "CompST": "England",
+            "CompD": "England",
+            "Scu": 0,
+            "Chi": 0,
+            "Shi": 0,
+            "Sdn": "Premier League"
+          }
+        }
+      ],
+      "Spid": 1
+    }
+  ],
+  "Eps": "FT",
+  "Esid": 6,
+  "Epr": 2,
+  "Ecov": 0,
+  "ErnO": 0,
+  "Ern": 15,
+  "ErnInf": "15",
+  "Ewt": 1,
+  "Et": 1,
+  "Esd": 20211204153000,
+  "LuUT": 20211204153255,
+  "Eds": 20211204153020,
+  "Edf": 20211204172520,
+  "Eact": 1,
+  "IncsX": 1,
+  "ComX": 1,
+  "LuX": 1,
+  "StatX": 1,
+  "SubsX": 1,
+  "SDFowX": 0,
+  "SDInnX": 0,
+  "EO": 50045,
+  "LuC": 1,
+  "Ehid": 0,
+  "Stg": {
+    "Sid": "7126",
+    "Snm": "Premier League",
+    "Sds": "Premier League",
+    "Scd": "premier-league",
+    "Cid": "34",
+    "Cnm": "England",
+    "Csnm": "England",
+    "Ccd": "england",
+    "Ccdiso": "GBR",
+    "CompId": "10",
+    "CompN": "Premier League",
+    "CompST": "England",
+    "CompD": "England",
+    "Scu": 0,
+    "Chi": 0,
+    "Shi": 0,
+    "Sdn": "Premier League"
+  },
+  "Pid": 8,
+  "Spid": 1,
+  "Vnm": "London Stadium",
+  "Vneut": 0,
+  "Stat": [
+    {
+      "Tnb": 1,
+      "Fls": 10,
+      "Ths": 19,
+      "Ofs": 3,
+      "Pss": 36,
+      "Crs": 14,
+      "Cos": 1,
+      "Ycs": 1,
+      "Rcs": 0,
+      "YRcs": 0,
+      "Shon": 5,
+      "Shof": 6,
+      "Shwd": 0,
+      "Shbl": 0,
+      "Att": 0,
+      "Gks": 6,
+      "Goa": 5,
+      "Trt": 6
+    },
+    {
+      "Tnb": 2,
+      "Fls": 9,
+      "Ths": 13,
+      "Ofs": 1,
+      "Pss": 64,
+      "Crs": 30,
+      "Cos": 9,
+      "Ycs": 3,
+      "Rcs": 0,
+      "YRcs": 0,
+      "Shon": 8,
+      "Shof": 4,
+      "Shwd": 0,
+      "Shbl": 5,
+      "Att": 0,
+      "Gks": 1,
+      "Goa": 8,
+      "Trt": 1
+    }
+  ],
+  "Lu": [
+    {
+      "Tnb": 1,
+      "Ps": [
+        {
+          "Pid": "30973",
+          "Fn": "Lukasz",
+          "Ln": "Fabianski",
+          "Snm": "Lukasz Fabianski",
+          "Pos": 1,
+          "Pon": "GOALKEEPER",
+          "Snu": 1,
+          "Shnm": "Lukasz Fabianski",
+          "PosA": 1,
+          "Fp": "1:1"
+        },
+        {
+          "Pid": "169162",
+          "Fn": "Craig",
+          "Ln": "Dawson",
+          "Snm": "Craig Dawson",
+          "Pos": 2,
+          "Pon": "DEFENDER",
+          "Snu": 15,
+          "Shnm": "Craig Dawson",
+          "PosA": 2,
+          "Fp": "2:1"
+        },
+        {
+          "Pid": "281207",
+          "Fn": "Kurt",
+          "Ln": "Zouma",
+          "Snm": "Kurt Zouma",
+          "Pos": 2,
+          "Pon": "DEFENDER",
+          "Snu": 4,
+          "Shnm": "Kurt Zouma",
+          "Mo": 71,
+          "PosA": 2,
+          "Fp": "2:2"
+        },
+        {
+          "Pid": "696443",
+          "Fn": "Issa",
+          "Ln": "Diop",
+          "Snm": "Issa Diop",
+          "Pos": 2,
+          "Pon": "DEFENDER",
+          "Snu": 23,
+          "Shnm": "Issa Diop",
+          "PosA": 2,
+          "Fp": "2:3"
+        },
+        {
+          "Pid": "307317",
+          "Fn": "Vladimir",
+          "Ln": "Coufal",
+          "Snm": "Vladimir Coufal",
+          "Pos": 3,
+          "Pon": "MIDFIELDER",
+          "Snu": 5,
+          "Shnm": "Vladimir Coufal",
+          "PosA": 3,
+          "Fp": "3:1"
+        },
+        {
+          "Pid": "524437",
+          "Fn": "Tomas",
+          "Ln": "Soucek",
+          "Snm": "Tomas Soucek",
+          "Pos": 3,
+          "Pon": "MIDFIELDER",
+          "Snu": 28,
+          "Shnm": "Tomas Soucek",
+          "PosA": 3,
+          "Fp": "3:2"
+        },
+        {
+          "Pid": "654096",
+          "Fn": "Declan",
+          "Ln": "Rice",
+          "Snm": "Declan Rice",
+          "Pos": 3,
+          "Pon": "MIDFIELDER",
+          "Snu": 41,
+          "Shnm": "Declan Rice",
+          "PosA": 3,
+          "Fp": "3:3"
+        },
+        {
+          "Pid": "770267",
+          "Fn": "Ben",
+          "Ln": "Johnson",
+          "Snm": "Ben Johnson",
+          "Pos": 3,
+          "Pon": "MIDFIELDER",
+          "Snu": 31,
+          "Shnm": "Ben Johnson",
+          "Mo": 45,
+          "PosA": 3,
+          "Fp": "3:4"
+        },
+        {
+          "Pid": "523825",
+          "Fn": "Jarrod",
+          "Ln": "Bowen",
+          "Snm": "Jarrod Bowen",
+          "Pos": 3,
+          "Pon": "MIDFIELDER",
+          "Snu": 20,
+          "Shnm": "Jarrod Bowen",
+          "PosA": 3,
+          "Fp": "4:1"
+        },
+        {
+          "Pid": "210276",
+          "Fn": "Manuel",
+          "Ln": "Lanzini",
+          "Snm": "Manuel Lanzini",
+          "Pos": 3,
+          "Pon": "MIDFIELDER",
+          "Snu": 10,
+          "Shnm": "Manuel Lanzini",
+          "Mo": 85,
+          "PosA": 3,
+          "Fp": "4:2"
+        },
+        {
+          "Pid": "158545",
+          "Fn": "Michail",
+          "Ln": "Antonio",
+          "Snm": "Michail Antonio",
+          "Pos": 4,
+          "Pon": "FORWARD",
+          "Snu": 9,
+          "Shnm": "Michail Antonio",
+          "PosA": 4,
+          "Fp": "5:1"
+        },
+        {
+          "Pid": "78626",
+          "Fn": "David",
+          "Ln": "Moyes",
+          "Snm": "David Moyes",
+          "Pos": 10,
+          "Pon": "COACH",
+          "Shnm": "David Moyes",
+          "PosA": 10
+        },
+        {
+          "Pid": "210164",
+          "Fn": "Alphonse",
+          "Ln": "Areola",
+          "Snm": "Alphonse Areola",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 13,
+          "Shnm": "Alphonse Areola",
+          "PosA": 5
+        },
+        {
+          "Pid": "418137",
+          "Fn": "Arthur",
+          "Ln": "Masuaku",
+          "Snm": "Arthur Masuaku",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 26,
+          "Shnm": "Arthur Masuaku",
+          "Mo": 45,
+          "PosA": 5
+        },
+        {
+          "Pid": "1111611",
+          "Fn": "Harrison",
+          "Ln": "Ashby",
+          "Snm": "Harrison Ashby",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 50,
+          "Shnm": "Harrison Ashby",
+          "PosA": 5
+        },
+        {
+          "Pid": "836797",
+          "Fn": "Alex",
+          "Ln": "Kral",
+          "Snm": "Alex Kral",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 33,
+          "Shnm": "Alex Kral",
+          "PosA": 5
+        },
+        {
+          "Pid": "37169",
+          "Fn": "Mark",
+          "Ln": "Noble",
+          "Snm": "Mark Noble",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 16,
+          "Shnm": "Mark Noble",
+          "PosA": 5
+        },
+        {
+          "Pid": "683450",
+          "Fn": "Pablo",
+          "Ln": "Fornals",
+          "Snm": "Pablo Fornals",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 8,
+          "Shnm": "Pablo Fornals",
+          "Mo": 71,
+          "PosA": 5
+        },
+        {
+          "Pid": "491883",
+          "Fn": "Said",
+          "Ln": "Benrahma",
+          "Snm": "Said Benrahma",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 22,
+          "Shnm": "Said Benrahma",
+          "Mo": 85,
+          "PosA": 5
+        },
+        {
+          "Pid": "132035",
+          "Fn": "Andriy",
+          "Ln": "Yarmolenko",
+          "Snm": "Andriy Yarmolenko",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 7,
+          "Shnm": "Andriy Yarmolenko",
+          "PosA": 5
+        },
+        {
+          "Pid": "557677",
+          "Fn": "Nikola",
+          "Ln": "Vlasic",
+          "Snm": "Nikola Vlasic",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 11,
+          "Shnm": "Nikola Vlasic",
+          "PosA": 5
+        }
+      ],
+      "Fo": [
+        3,
+        4,
+        2,
+        1
+      ]
+    },
+    {
+      "Tnb": 2,
+      "Ps": [
+        {
+          "Pid": "773229",
+          "Fn": "Edouard",
+          "Ln": "Mendy",
+          "Snm": "Edouard Mendy",
+          "Pos": 1,
+          "Pon": "GOALKEEPER",
+          "Snu": 16,
+          "Shnm": "Edouard Mendy",
+          "PosA": 1,
+          "Fp": "1:1"
+        },
+        {
+          "Pid": "449232",
+          "Fn": "Andreas",
+          "Ln": "Christensen",
+          "Snm": "Andreas Christensen",
+          "Pos": 2,
+          "Pon": "DEFENDER",
+          "Snu": 4,
+          "Shnm": "Andreas Christensen",
+          "PosA": 2,
+          "Fp": "2:1"
+        },
+        {
+          "Pid": "80562",
+          "Fn": "Thiago",
+          "Ln": "Silva",
+          "Snm": "Thiago Silva",
+          "Pos": 2,
+          "Pon": "DEFENDER",
+          "Snu": 6,
+          "Shnm": "Thiago Silva",
+          "PosA": 2,
+          "Fp": "2:2"
+        },
+        {
+          "Pid": "276738",
+          "Fn": "Antonio",
+          "Ln": "Ruediger",
+          "Snm": "Antonio Ruediger",
+          "Pos": 2,
+          "Pon": "DEFENDER",
+          "Snu": 2,
+          "Shnm": "Antonio Ruediger",
+          "PosA": 2,
+          "Fp": "2:3"
+        },
+        {
+          "Pid": "807729",
+          "Fn": "Reece",
+          "Ln": "James",
+          "Snm": "Reece James",
+          "Pos": 3,
+          "Pon": "MIDFIELDER",
+          "Snu": 24,
+          "Shnm": "Reece James",
+          "PosA": 3,
+          "Fp": "3:1"
+        },
+        {
+          "Pid": "604982",
+          "Fn": "Ruben",
+          "Ln": "Loftus-Cheek",
+          "Snm": "Ruben Loftus-Cheek",
+          "Pos": 3,
+          "Pon": "MIDFIELDER",
+          "Snu": 12,
+          "Shnm": "Ruben Loftus-Cheek",
+          "PosA": 3,
+          "Fp": "3:2"
+        },
+        {
+          "Pid": "282775",
+          "Fn": "",
+          "Ln": "Jorginho",
+          "Snm": "Jorginho",
+          "Pos": 3,
+          "Pon": "MIDFIELDER",
+          "Snu": 5,
+          "Shnm": "Jorginho",
+          "PosA": 3,
+          "Fp": "3:3"
+        },
+        {
+          "Pid": "196169",
+          "Fn": "Marcos",
+          "Ln": "Alonso",
+          "Snm": "Marcos Alonso",
+          "Pos": 3,
+          "Pon": "MIDFIELDER",
+          "Snu": 3,
+          "Shnm": "Marcos Alonso",
+          "Mo": 72,
+          "PosA": 3,
+          "Fp": "3:4"
+        },
+        {
+          "Pid": "360559",
+          "Fn": "Hakim",
+          "Ln": "Ziyech",
+          "Snm": "Hakim Ziyech",
+          "Pos": 3,
+          "Pon": "MIDFIELDER",
+          "Snu": 22,
+          "Shnm": "Hakim Ziyech",
+          "Mo": 64,
+          "PosA": 3,
+          "Fp": "4:1"
+        },
+        {
+          "Pid": "750032",
+          "Fn": "Mason",
+          "Ln": "Mount",
+          "Snm": "Mason Mount",
+          "Pos": 3,
+          "Pon": "MIDFIELDER",
+          "Snu": 19,
+          "Shnm": "Mason Mount",
+          "PosA": 3,
+          "Fp": "4:2"
+        },
+        {
+          "Pid": "749736",
+          "Fn": "Kai",
+          "Ln": "Havertz",
+          "Snm": "Kai Havertz",
+          "Pos": 4,
+          "Pon": "FORWARD",
+          "Snu": 29,
+          "Shnm": "Kai Havertz",
+          "Mo": 46,
+          "PosA": 4,
+          "Fp": "5:1"
+        },
+        {
+          "Pid": "179347",
+          "Fn": "Thomas",
+          "Ln": "Tuchel",
+          "Snm": "Thomas Tuchel",
+          "Pos": 10,
+          "Pon": "COACH",
+          "Shnm": "Thomas Tuchel",
+          "PosA": 10
+        },
+        {
+          "Pid": "317564",
+          "Fn": "Kepa",
+          "Ln": "Arrizabalaga",
+          "Snm": "Kepa Arrizabalaga",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 1,
+          "Shnm": "Kepa Arrizabalaga",
+          "PosA": 5
+        },
+        {
+          "Pid": "72541",
+          "Fn": "Cesar",
+          "Ln": "Azpilicueta",
+          "Snm": "Cesar Azpilicueta",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 28,
+          "Shnm": "Cesar Azpilicueta",
+          "PosA": 5
+        },
+        {
+          "Pid": "782502",
+          "Fn": "Malang",
+          "Ln": "Sarr",
+          "Snm": "Malang Sarr",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 31,
+          "Shnm": "Malang Sarr",
+          "PosA": 5
+        },
+        {
+          "Pid": "215384",
+          "Fn": "Ross",
+          "Ln": "Barkley",
+          "Snm": "Ross Barkley",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 18,
+          "Shnm": "Ross Barkley",
+          "PosA": 5
+        },
+        {
+          "Pid": "309334",
+          "Fn": "Saul",
+          "Ln": "Niguez",
+          "Snm": "Saul Niguez",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 17,
+          "Shnm": "Saul Niguez",
+          "PosA": 5
+        },
+        {
+          "Pid": "846383",
+          "Fn": "Callum",
+          "Ln": "Hudson-Odoi",
+          "Snm": "Callum Hudson-Odoi",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 20,
+          "Shnm": "Callum Hudson-Odoi",
+          "Mo": 64,
+          "PosA": 5
+        },
+        {
+          "Pid": "688295",
+          "Fn": "Christian",
+          "Ln": "Pulisic",
+          "Snm": "Christian Pulisic",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 10,
+          "Shnm": "Christian Pulisic",
+          "Mo": 72,
+          "PosA": 5
+        },
+        {
+          "Pid": "181276",
+          "Fn": "Romelu",
+          "Ln": "Lukaku",
+          "Snm": "Romelu Lukaku",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 9,
+          "Shnm": "Romelu Lukaku",
+          "Mo": 46,
+          "PosA": 5
+        },
+        {
+          "Pid": "450980",
+          "Fn": "Timo",
+          "Ln": "Werner",
+          "Snm": "Timo Werner",
+          "Pos": 5,
+          "Pon": "SUBSTITUTE_PLAYER",
+          "Snu": 11,
+          "Shnm": "Timo Werner",
+          "PosA": 5
+        }
+      ],
+      "Fo": [
+        3,
+        4,
+        2,
+        1
+      ]
+    }
+  ],
+  "Com": [
+    {
+      "Min": 90,
+      "MinEx": 5,
+      "Txt": "Both teams could have won today but West Ham just managed to carve out the victory"
+    },
+    {
+      "Min": 90,
+      "MinEx": 5,
+      "Txt": "That's it! The referee blows the final whistle",
+      "IT": 22
+    },
+    {
+      "Min": 90,
+      "MinEx": 5,
+      "Txt": "Ball possession: West Ham: 36%, Chelsea: 64%."
+    },
+    {
+      "Min": 90,
+      "MinEx": 5,
+      "Txt": "Chelsea take a throw-in at the left side of the pitch in their own half of the field"
+    },
+    {
+      "Min": 90,
+      "MinEx": 5,
+      "Txt": "West Ham is in control of the ball."
+    },
+    {
+      "Min": 90,
+      "MinEx": 4,
+      "Txt": "After a tactical foul, Andreas Christensen sees no other way than stopping the counter and receives a yellow card.",
+      "IT": 43
+    },
+    {
+      "Min": 90,
+      "MinEx": 4,
+      "Txt": "The referee signals a free kick as Andreas Christensen from Chelsea trips Michail Antonio"
+    },
+    {
+      "Min": 90,
+      "MinEx": 3,
+      "Txt": "Christian Pulisic from Chelsea successfully heads the ball to a team mate."
+    },
+    {
+      "Min": 90,
+      "MinEx": 3,
+      "Txt": "Mason Mount puts in a cross..."
+    },
+    {
+      "Min": 90,
+      "MinEx": 3,
+      "Txt": "Chelsea is trying to create something here."
+    },
+    {
+      "Min": 90,
+      "MinEx": 2,
+      "Txt": "The referee shows Reece James the yellow card for unsportsmanlike conduct.",
+      "IT": 43
+    },
+    {
+      "Min": 90,
+      "MinEx": 1,
+      "Txt": "Vladimir Coufal from West Ham receives a yellow card after a dangerous challenge on an opponent player."
+    },
+    {
+      "Min": 90,
+      "MinEx": 1,
+      "Txt": "Dangerous challenge by Vladimir Coufal from West Ham. Callum Hudson-Odoi on the receiving end of that."
+    },
+    {
+      "Min": 90,
+      "MinEx": 1,
+      "Txt": "Chelsea take a throw-in at the right side of the pitch in their own half of the field"
+    },
+    {
+      "Min": 90,
+      "MinEx": 1,
+      "Txt": "The fourth official shows there are 4 minute(s) of time to be added."
+    },
+    {
+      "Min": 90,
+      "Txt": "The referee signals a free kick as Ruben Loftus-Cheek from Chelsea trips Said Benrahma"
+    },
+    {
+      "Min": 90,
+      "Txt": "Ball possession: West Ham: 37%, Chelsea: 63%."
+    },
+    {
+      "Min": 90,
+      "Txt": "Chelsea plays a short goal kick."
+    },
+    {
+      "Min": 89,
+      "Txt": "Jarrod Bowen from West Ham sends an effort wide of target"
+    },
+    {
+      "Min": 89,
+      "Txt": "Michail Antonio of West Ham passes the ball to a team mate."
+    },
+    {
+      "Min": 89,
+      "Txt": "West Ham is in control of the ball."
+    },
+    {
+      "Min": 87,
+      "Txt": "Michail Antonio provided the assist for the goal."
+    },
+    {
+      "Min": 87,
+      "Txt": "G O O O A A A L - Arthur Masuaku from West Ham beats the keeper from outside the box with the left foot!",
+      "IT": 36
+    },
+    {
+      "Min": 87,
+      "Txt": "West Ham take a throw-in at the left side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 86,
+      "Txt": "Chelsea plays a short goal kick."
+    },
+    {
+      "Min": 86,
+      "Txt": "Jarrod Bowen from West Ham makes an aerial pass in the box, but his team mate fails to benefit from it."
+    },
+    {
+      "Min": 86,
+      "Txt": "West Ham take a throw-in at the right side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 85,
+      "Txt": "Manuel Lanzini is leaving the field to be replaced by Said Benrahma in a tactical substitution.",
+      "IT": 3
+    },
+    {
+      "Min": 84,
+      "Txt": "Ball possession: West Ham: 36%, Chelsea: 64%."
+    },
+    {
+      "Min": 84,
+      "Txt": "West Ham take a throw-in at the right side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 84,
+      "Txt": "Vladimir Coufal from West Ham directs a ball squarely in the box, but it's intercepted by an opponent player."
+    },
+    {
+      "Min": 84,
+      "Txt": "Goal kick for Chelsea."
+    },
+    {
+      "Min": 84,
+      "Txt": "Jarrod Bowen from West Ham tries to pick out a team-mate in the area but his cross is blocked by an opponent."
+    },
+    {
+      "Min": 83,
+      "Txt": "Goal kick for West Ham."
+    },
+    {
+      "Min": 83,
+      "Txt": "Mason Mount from Chelsea had a bad first touch and fails to take advantage of the situation."
+    },
+    {
+      "Min": 83,
+      "Txt": "Ruben Loftus-Cheek of Chelsea passes the ball to a team mate."
+    },
+    {
+      "Min": 82,
+      "Txt": "West Ham take a throw-in at the right side of the pitch in their own half of the field"
+    },
+    {
+      "Min": 81,
+      "Txt": "Callum Hudson-Odoi from Chelsea sees his pass blocked by an opponent."
+    },
+    {
+      "Min": 81,
+      "Txt": "Ruben Loftus-Cheek of Chelsea passes the ball to a team mate."
+    },
+    {
+      "Min": 81,
+      "Txt": "Goal kick for West Ham."
+    },
+    {
+      "Min": 81,
+      "Txt": "Romelu Lukaku from Chelsea heads the ball, but it's a terrible effort nowhere near the goal."
+    },
+    {
+      "Min": 80,
+      "Txt": "Antonio Ruediger puts in a cross..."
+    },
+    {
+      "Min": 80,
+      "Txt": "A chance opens up as Ruben Loftus-Cheek from Chelsea successfully finds a team mate in the area..."
+    },
+    {
+      "Min": 80,
+      "Txt": "Callum Hudson-Odoi puts in a cross..."
+    },
+    {
+      "Min": 80,
+      "Txt": "The away team are really starting to put pressure the opposition now."
+    },
+    {
+      "Min": 80,
+      "Txt": "Ball possession: West Ham: 38%, Chelsea: 62%."
+    },
+    {
+      "Min": 80,
+      "Txt": "Christian Pulisic from Chelsea passes the ball in the box, but it's intercepted by an opponent player."
+    },
+    {
+      "Min": 79,
+      "Txt": "Chelsea is trying to create something here."
+    },
+    {
+      "Min": 79,
+      "Txt": "Arthur Masuaku relieves the pressure with a clearance"
+    },
+    {
+      "Min": 79,
+      "Txt": "Callum Hudson-Odoi puts in a cross..."
+    },
+    {
+      "Min": 79,
+      "Txt": "The match resumes with a drop ball."
+    },
+    {
+      "Min": 78,
+      "Txt": "Play has been stopped because there is a player lying on the pitch."
+    },
+    {
+      "Min": 78,
+      "Txt": "Craig Dawson relieves the pressure with a clearance"
+    },
+    {
+      "Min": 78,
+      "Txt": "Thiago Silva from Chelsea heads towards goal but sees his effort blocked."
+    },
+    {
+      "Min": 78,
+      "Txt": "Mason Mount from Chelsea swings in the corner from the right."
+    },
+    {
+      "Min": 77,
+      "Txt": "Jorginho sees his shot deflected off target"
+    },
+    {
+      "Min": 77,
+      "Txt": "Callum Hudson-Odoi of Chelsea passes the ball to a team mate."
+    },
+    {
+      "Min": 77,
+      "Txt": "Ruben Loftus-Cheek from Chelsea crosses the ball but it is nowhere near the intended target."
+    },
+    {
+      "Min": 77,
+      "Txt": "Chelsea is trying to create something here."
+    },
+    {
+      "Min": 76,
+      "Txt": "Safe hands from Edouard Mendy as he comes out and claims the ball"
+    },
+    {
+      "Min": 76,
+      "Txt": "Jarrod Bowen puts in a cross..."
+    },
+    {
+      "Min": 76,
+      "Txt": "Christian Pulisic relieves the pressure with a clearance"
+    },
+    {
+      "Min": 76,
+      "Txt": "Jarrod Bowen swings in a cross from the free kick."
+    },
+    {
+      "Min": 76,
+      "Txt": "The referee signals a free kick as Antonio Ruediger from Chelsea trips Jarrod Bowen"
+    },
+    {
+      "Min": 75,
+      "Txt": "Chelsea plays a short goal kick."
+    },
+    {
+      "Min": 75,
+      "Txt": "How did he miss that? Jarrod Bowen has a wonderful chance to score but somehow manages to miss the target!"
+    },
+    {
+      "Min": 75,
+      "Txt": "Michail Antonio from West Ham directs a ball squarely in the box."
+    },
+    {
+      "Min": 75,
+      "Txt": "Ball possession: West Ham: 37%, Chelsea: 63%."
+    },
+    {
+      "Min": 74,
+      "Txt": "West Ham is trying to create something here."
+    },
+    {
+      "Min": 74,
+      "Txt": "West Ham take a throw-in at the left side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 73,
+      "Txt": "West Ham take a throw-in at the left side of the pitch in their own half of the field"
+    },
+    {
+      "Min": 73,
+      "Txt": "West Ham take a throw-in at the left side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 72,
+      "Txt": "Marcos Alonso is leaving the field to be replaced by Christian Pulisic in a tactical substitution.",
+      "IT": 3
+    },
+    {
+      "Min": 72,
+      "Txt": "A shot by Marcos Alonso is blocked."
+    },
+    {
+      "Min": 72,
+      "Txt": "Tomas Soucek relieves the pressure with a clearance"
+    },
+    {
+      "Min": 72,
+      "Txt": "Reece James swings in a cross from the free kick."
+    },
+    {
+      "Min": 71,
+      "Txt": "The ref blows his whistle. Jarrod Bowen charged Callum Hudson-Odoi from behind and it's a free-kick"
+    },
+    {
+      "Min": 71,
+      "Txt": "Great vision by Jarrod Bowen from West Ham as he stops a promising attack with an interception."
+    },
+    {
+      "Min": 71,
+      "Txt": "Mason Mount from Chelsea swings in the corner from the right."
+    },
+    {
+      "Min": 71,
+      "Txt": "Kurt Zouma is injured and is replaced by Pablo Fornals.",
+      "IT": 3
+    },
+    {
+      "Min": 70,
+      "Txt": "Reece James from Chelsea tries to pick out a team-mate in the area but his cross is blocked by an opponent."
+    },
+    {
+      "Min": 70,
+      "Txt": "Jarrod Bowen is penalised for pushing Marcos Alonso."
+    },
+    {
+      "Min": 70,
+      "Txt": "Safe hands from Edouard Mendy as he comes out and claims the ball"
+    },
+    {
+      "Min": 70,
+      "Txt": "Arthur Masuaku puts in a cross..."
+    },
+    {
+      "Min": 70,
+      "Txt": "Ball possession: West Ham: 36%, Chelsea: 64%."
+    },
+    {
+      "Min": 70,
+      "Txt": "West Ham take a throw-in at the left side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 69,
+      "Txt": "The game is restarted."
+    },
+    {
+      "Min": 68,
+      "Txt": "Kurt Zouma is injured and is taken off the field to receive medical treatment."
+    },
+    {
+      "Min": 68,
+      "Txt": "Play has been stopped because there is a player lying on the pitch."
+    },
+    {
+      "Min": 68,
+      "Txt": "Tomas Soucek from West Ham goes a bit too far there as the pulls down Ruben Loftus-Cheek"
+    },
+    {
+      "Min": 67,
+      "Txt": "Chelsea take a throw-in at the right side of the pitch in their own half of the field"
+    },
+    {
+      "Min": 66,
+      "Txt": "Good effort by Mason Mount as he directs a shot on target, but the keeper saves it"
+    },
+    {
+      "Min": 66,
+      "Txt": "Callum Hudson-Odoi of Chelsea passes the ball to a team mate."
+    },
+    {
+      "Min": 66,
+      "Txt": "Chelsea is trying to create something here."
+    },
+    {
+      "Min": 65,
+      "Txt": "Ball possession: West Ham: 36%, Chelsea: 64%."
+    },
+    {
+      "Min": 65,
+      "Txt": "Mason Mount from Chelsea makes an aerial pass in the box, but it's intercepted by an opponent player."
+    },
+    {
+      "Min": 65,
+      "Txt": "Romelu Lukaku of Chelsea passes the ball to a team mate."
+    },
+    {
+      "Min": 64,
+      "Txt": "Goal kick for West Ham."
+    },
+    {
+      "Min": 64,
+      "Txt": "Hakim Ziyech is leaving the field to be replaced by Callum Hudson-Odoi in a tactical substitution.",
+      "IT": 3
+    },
+    {
+      "Min": 63,
+      "Txt": "Reece James from Chelsea takes a free kick, but it ends up nowhere near the goalframe."
+    },
+    {
+      "Min": 63,
+      "Txt": "Michail Antonio is penalised for pushing Ruben Loftus-Cheek."
+    },
+    {
+      "Min": 62,
+      "Txt": "Chelsea is trying to create something here."
+    },
+    {
+      "Min": 62,
+      "Txt": "Arthur Masuaku relieves the pressure with a clearance"
+    },
+    {
+      "Min": 62,
+      "Txt": "Mason Mount from Chelsea swings in the corner from the right."
+    },
+    {
+      "Min": 61,
+      "Txt": "Mason Mount from Chelsea directs a ball squarely in the box, but it's intercepted by an opponent player."
+    },
+    {
+      "Min": 61,
+      "Txt": "Kurt Zouma relieves the pressure with a clearance"
+    },
+    {
+      "Min": 61,
+      "Txt": "Hakim Ziyech puts in a cross..."
+    },
+    {
+      "Min": 60,
+      "Txt": "Ball possession: West Ham: 38%, Chelsea: 62%."
+    },
+    {
+      "Min": 60,
+      "Txt": "Craig Dawson from West Ham tries to head the ball to a team mate, but the keeper is first to it."
+    },
+    {
+      "Min": 60,
+      "Txt": "Manuel Lanzini swings in a cross from the free kick."
+    },
+    {
+      "Min": 59,
+      "Txt": "Thiago Silva is penalised for pushing Jarrod Bowen."
+    },
+    {
+      "Min": 59,
+      "Txt": "Safe hands from Lukasz Fabianski as he comes out and claims the ball"
+    },
+    {
+      "Min": 58,
+      "Txt": "Romelu Lukaku from Chelsea had a bad first touch and fails to take advantage of the situation."
+    },
+    {
+      "Min": 58,
+      "Txt": "Reece James puts in a cross..."
+    },
+    {
+      "Min": 58,
+      "Txt": "Mason Mount from Chelsea passes the ball in the box, but it's intercepted by an opponent player."
+    },
+    {
+      "Min": 57,
+      "Txt": "Chelsea take a throw-in at the left side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 57,
+      "Txt": "Chelsea is in control of the ball."
+    },
+    {
+      "Min": 56,
+      "Txt": "Vladimir Coufal provided the assist for the goal."
+    },
+    {
+      "Min": 56,
+      "Txt": "G O O O A A A L - Jarrod Bowen scores with the left foot!",
+      "IT": 36
+    },
+    {
+      "Min": 56,
+      "Txt": "Vladimir Coufal of West Ham passes the ball to a team mate."
+    },
+    {
+      "Min": 56,
+      "Txt": "Poor play by Thiago Silva as his weak attempt to clear the ball puts his side under pressure"
+    },
+    {
+      "Min": 56,
+      "Txt": "Craig Dawson puts in a cross..."
+    },
+    {
+      "Min": 55,
+      "Txt": "West Ham plays a short goal kick."
+    },
+    {
+      "Min": 55,
+      "Txt": "Hakim Ziyech from Chelsea sends an effort wide of target"
+    },
+    {
+      "Min": 55,
+      "Txt": "Antonio Ruediger of Chelsea passes the ball to a team mate."
+    },
+    {
+      "Min": 55,
+      "Txt": "Chelsea is trying to create something here."
+    },
+    {
+      "Min": 55,
+      "Txt": "Antonio Ruediger from Chelsea takes the ball forward trying to make something happen..."
+    },
+    {
+      "Min": 54,
+      "Txt": "Ball possession: West Ham: 35%, Chelsea: 65%."
+    },
+    {
+      "Min": 54,
+      "Txt": "West Ham is in control of the ball."
+    },
+    {
+      "Min": 54,
+      "Txt": "Ruben Loftus-Cheek from Chelsea passes the ball in the box, but it's intercepted by an opponent player."
+    },
+    {
+      "Min": 53,
+      "Txt": "Kurt Zouma is penalised for pushing Romelu Lukaku."
+    },
+    {
+      "Min": 52,
+      "Txt": "West Ham is in control of the ball."
+    },
+    {
+      "Min": 52,
+      "Txt": "West Ham take a throw-in at the right side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 52,
+      "Txt": "West Ham is trying to create something here."
+    },
+    {
+      "Min": 51,
+      "Txt": "Jarrod Bowen from West Ham is ruled offside."
+    },
+    {
+      "Min": 50,
+      "Txt": "Tomas Soucek relieves the pressure with a clearance"
+    },
+    {
+      "Min": 50,
+      "Txt": "Hakim Ziyech from Chelsea swings in the corner from the left."
+    },
+    {
+      "Min": 50,
+      "Txt": "Issa Diop clears the danger but is forced to give away a corner..."
+    },
+    {
+      "Min": 50,
+      "Txt": "Hakim Ziyech from Chelsea swings in the corner from the left."
+    },
+    {
+      "Min": 50,
+      "Txt": "Ball possession: West Ham: 34%, Chelsea: 66%."
+    },
+    {
+      "Min": 49,
+      "Txt": "Hakim Ziyech from Chelsea tries to pick out a team-mate in the area but his cross is blocked by an opponent."
+    },
+    {
+      "Min": 49,
+      "Txt": "Jarrod Bowen from West Ham is ruled offside."
+    },
+    {
+      "Min": 48,
+      "Txt": "The referee signals a free kick as Ruben Loftus-Cheek from Chelsea trips Manuel Lanzini"
+    },
+    {
+      "Min": 48,
+      "Txt": "West Ham take a throw-in at the left side of the pitch in their own half of the field"
+    },
+    {
+      "Min": 48,
+      "Txt": "Chelsea is trying to create something here."
+    },
+    {
+      "Min": 47,
+      "Txt": "Tomas Soucek from West Ham is ruled offside."
+    },
+    {
+      "Min": 46,
+      "Txt": "Chelsea take a throw-in at the right side of the pitch in their own half of the field"
+    },
+    {
+      "Min": 46,
+      "Txt": "Kurt Zouma comes back onto the field."
+    },
+    {
+      "Min": 46,
+      "Txt": "Kai Havertz is injured and is replaced by Romelu Lukaku.",
+      "IT": 3
+    },
+    {
+      "Min": 46,
+      "Txt": "The second half is underway.",
+      "IT": 12
+    },
+    {
+      "Min": 45,
+      "MinEx": 5,
+      "Txt": "It's over! The referee blows for half time",
+      "IT": 11
+    },
+    {
+      "Min": 45,
+      "MinEx": 5,
+      "Txt": "Ball possession: West Ham: 33%, Chelsea: 67%."
+    },
+    {
+      "Min": 45,
+      "MinEx": 4,
+      "Txt": "The game is restarted."
+    },
+    {
+      "Min": 45,
+      "MinEx": 4,
+      "Txt": "Kurt Zouma is injured and is taken off the field to receive medical treatment."
+    },
+    {
+      "Min": 45,
+      "MinEx": 3,
+      "Txt": "Kurt Zouma is down injured and receives medical attention on the field."
+    },
+    {
+      "Min": 45,
+      "MinEx": 3,
+      "Txt": "Kai Havertz is injured and is taken off the field to receive medical treatment."
+    },
+    {
+      "Min": 45,
+      "MinEx": 3,
+      "Txt": "Play has been stopped because there is a player lying on the pitch."
+    },
+    {
+      "Min": 45,
+      "MinEx": 3,
+      "Txt": "Danger averted there as Kurt Zouma from West Ham clears the danger with a good tackle"
+    },
+    {
+      "Min": 45,
+      "MinEx": 2,
+      "Txt": "Kai Havertz from Chelsea takes the ball forward trying to make something happen..."
+    },
+    {
+      "Min": 45,
+      "MinEx": 2,
+      "Txt": "Goal kick for Chelsea."
+    },
+    {
+      "Min": 45,
+      "MinEx": 2,
+      "Txt": "Ben Johnson is injured and is replaced by Arthur Masuaku.",
+      "IT": 3
+    },
+    {
+      "Min": 45,
+      "MinEx": 2,
+      "Txt": "Michail Antonio fails to find the target with a shot from outside the box"
+    },
+    {
+      "Min": 45,
+      "MinEx": 1,
+      "Txt": "The game is restarted."
+    },
+    {
+      "Min": 45,
+      "MinEx": 1,
+      "Txt": "The fourth official shows there are 2 minute(s) of time to be added."
+    },
+    {
+      "Min": 45,
+      "MinEx": 1,
+      "Txt": "Ben Johnson is injured and is taken off the field to receive medical treatment."
+    },
+    {
+      "Min": 45,
+      "MinEx": 1,
+      "Txt": "Ben Johnson is down injured and receives medical attention on the field."
+    },
+    {
+      "Min": 45,
+      "MinEx": 1,
+      "Txt": "Play has been stopped because there is a player lying on the pitch."
+    },
+    {
+      "Min": 45,
+      "Txt": "Ball possession: West Ham: 33%, Chelsea: 67%."
+    },
+    {
+      "Min": 44,
+      "Txt": "Hakim Ziyech provided the assist for the goal."
+    },
+    {
+      "Min": 44,
+      "Txt": "G O O O A A A L - Mason Mount volleys the ball into the back of the net with the right. A great finish!",
+      "IT": 36
+    },
+    {
+      "Min": 44,
+      "Txt": "Hakim Ziyech from Chelsea puts in a great cross..."
+    },
+    {
+      "Min": 44,
+      "Txt": "Declan Rice could cost his team a goal after a defensive blunder."
+    },
+    {
+      "Min": 44,
+      "Txt": "West Ham is trying to create something here."
+    },
+    {
+      "Min": 43,
+      "Txt": "Thiago Silva relieves the pressure with a clearance"
+    },
+    {
+      "Min": 43,
+      "Txt": "Ben Johnson puts in a cross..."
+    },
+    {
+      "Min": 43,
+      "Txt": "West Ham take a throw-in at the left side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 43,
+      "Txt": "Ben Johnson from West Ham tries to pick out a team-mate in the area but his cross is blocked by an opponent."
+    },
+    {
+      "Min": 43,
+      "Txt": "West Ham take a throw-in at the left side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 43,
+      "Txt": "Chelsea take a throw-in at the right side of the pitch in their own half of the field"
+    },
+    {
+      "Min": 42,
+      "Txt": "West Ham take a throw-in at the left side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 42,
+      "Txt": "A shot from Kai Havertz takes a deflection but the keeper is there to cover it"
+    },
+    {
+      "Min": 42,
+      "Txt": "A shot by Hakim Ziyech is blocked."
+    },
+    {
+      "Min": 42,
+      "Txt": "Ruben Loftus-Cheek of Chelsea passes the ball to a team mate."
+    },
+    {
+      "Min": 41,
+      "Txt": "Chelsea take a throw-in at the right side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 41,
+      "Txt": "Chelsea is in control of the ball."
+    },
+    {
+      "Min": 40,
+      "Txt": "Ball possession: West Ham: 30%, Chelsea: 70%."
+    },
+    {
+      "Min": 40,
+      "Txt": "G O O O A A A L - Manuel Lanzini from West Ham puts it away from the penalty spot with the right foot! Edouard Mendy chose the wrong side.",
+      "IT": 37
+    },
+    {
+      "Min": 39,
+      "Txt": "PENALTY! - Edouard Mendy charges Jarrod Bowen from behind in the box and the ref points to the spot!"
+    },
+    {
+      "Min": 38,
+      "Txt": "Edouard Mendy could cost his team a goal after a defensive blunder."
+    },
+    {
+      "Min": 38,
+      "Txt": "Chelsea is in control of the ball."
+    },
+    {
+      "Min": 37,
+      "Txt": "Chelsea is in control of the ball."
+    },
+    {
+      "Min": 37,
+      "Txt": "West Ham take a throw-in at the left side of the pitch in their own half of the field"
+    },
+    {
+      "Min": 36,
+      "Txt": "Mason Mount from Chelsea passes the ball in the box, but it's intercepted by an opponent player."
+    },
+    {
+      "Min": 36,
+      "Txt": "Hakim Ziyech of Chelsea passes the ball to a team mate."
+    },
+    {
+      "Min": 36,
+      "Txt": "Kai Havertz of Chelsea passes the ball to a team mate."
+    },
+    {
+      "Min": 36,
+      "Txt": "Mason Mount shoots from outside the box, but Lukasz Fabianski has it under control"
+    },
+    {
+      "Min": 36,
+      "Txt": "A shot by Antonio Ruediger is blocked."
+    },
+    {
+      "Min": 35,
+      "Txt": "Chelsea take a throw-in at the left side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 35,
+      "Txt": "Ball possession: West Ham: 27%, Chelsea: 73%."
+    },
+    {
+      "Min": 35,
+      "Txt": "The referee signals a free kick as Craig Dawson from West Ham trips Hakim Ziyech"
+    },
+    {
+      "Min": 34,
+      "Txt": "West Ham plays a short goal kick."
+    },
+    {
+      "Min": 34,
+      "Txt": "Andreas Christensen goes for goal, but his effort was never close to hitting the target."
+    },
+    {
+      "Min": 34,
+      "Txt": "Kurt Zouma relieves the pressure with a clearance"
+    },
+    {
+      "Min": 34,
+      "Txt": "Hakim Ziyech from Chelsea swings in the corner from the left."
+    },
+    {
+      "Min": 33,
+      "Txt": "Kurt Zouma clears the danger but is forced to give away a corner..."
+    },
+    {
+      "Min": 33,
+      "Txt": "Marcos Alonso puts in a cross..."
+    },
+    {
+      "Min": 32,
+      "Txt": "A shot from Ruben Loftus-Cheek takes a deflection but the keeper is there to cover it"
+    },
+    {
+      "Min": 32,
+      "Txt": "Hakim Ziyech from Chelsea passes the ball in the box, but it's intercepted by an opponent player."
+    },
+    {
+      "Min": 32,
+      "Txt": "That looked a fine chance. Mason Mount from Chelsea directs a ball squarely in the box, but it comes to nothing in the end"
+    },
+    {
+      "Min": 32,
+      "Txt": "Reece James of Chelsea passes the ball to a team mate."
+    },
+    {
+      "Min": 31,
+      "Txt": "Kurt Zouma relieves the pressure with a clearance"
+    },
+    {
+      "Min": 31,
+      "Txt": "Reece James puts in a cross..."
+    },
+    {
+      "Min": 31,
+      "Txt": "Mason Mount from Chelsea directs a ball squarely in the box, but it's intercepted by an opponent player."
+    },
+    {
+      "Min": 31,
+      "Txt": "Reece James of Chelsea passes the ball to a team mate."
+    },
+    {
+      "Min": 30,
+      "Txt": "Great defending by Thiago Silva from Chelsea to prevent his team conceding a goal."
+    },
+    {
+      "Min": 30,
+      "Txt": "Vladimir Coufal gets a finish in but his shot is hacked off the goal line!"
+    },
+    {
+      "Min": 30,
+      "Txt": "Poor play by Marcos Alonso as his weak attempt to clear the ball puts his side under pressure"
+    },
+    {
+      "Min": 30,
+      "Txt": "Ben Johnson puts in a cross..."
+    },
+    {
+      "Min": 30,
+      "Txt": "Ball possession: West Ham: 29%, Chelsea: 71%."
+    },
+    {
+      "Min": 30,
+      "Txt": "West Ham is in control of the ball."
+    },
+    {
+      "Min": 29,
+      "Txt": "Mason Mount provided the assist for the goal."
+    },
+    {
+      "Min": 29,
+      "Txt": "G O O O A A A L - Thiago Silva from Chelsea heads the ball home!",
+      "IT": 36
+    },
+    {
+      "Min": 29,
+      "Txt": "Mason Mount from Chelsea swings in the corner from the right."
+    },
+    {
+      "Min": 28,
+      "Txt": "Ruben Loftus-Cheek from Chelsea tries to head the ball to a team mate, but it's intercepted by an opponent player."
+    },
+    {
+      "Min": 28,
+      "Txt": "Mason Mount from Chelsea swings in the corner from the right."
+    },
+    {
+      "Min": 28,
+      "Txt": "Kai Havertz from Chelsea sees his pass blocked by an opponent."
+    },
+    {
+      "Min": 27,
+      "Txt": "Kai Havertz from Chelsea takes the ball forward trying to make something happen..."
+    },
+    {
+      "Min": 27,
+      "Txt": "Chelsea take a throw-in at the left side of the pitch in their own half of the field"
+    },
+    {
+      "Min": 27,
+      "Txt": "Tomas Soucek from West Ham sees his pass blocked by an opponent."
+    },
+    {
+      "Min": 27,
+      "Txt": "Vladimir Coufal of West Ham passes the ball to a team mate."
+    },
+    {
+      "Min": 26,
+      "Txt": "West Ham take a throw-in at the right side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 26,
+      "Txt": "Kai Havertz sends a header towards goal, but Lukasz Fabianski is there to comfortably save it"
+    },
+    {
+      "Min": 26,
+      "Txt": "Reece James puts in a cross..."
+    },
+    {
+      "Min": 25,
+      "Txt": "Issa Diop relieves the pressure with a clearance"
+    },
+    {
+      "Min": 25,
+      "Txt": "Marcos Alonso puts in a cross..."
+    },
+    {
+      "Min": 25,
+      "Txt": "Ball possession: West Ham: 28%, Chelsea: 72%."
+    },
+    {
+      "Min": 25,
+      "Txt": "Chelsea is trying to create something here."
+    },
+    {
+      "Min": 24,
+      "Txt": "Goal kick for Chelsea."
+    },
+    {
+      "Min": 24,
+      "Txt": "Michail Antonio from West Ham sends an effort wide of target"
+    },
+    {
+      "Min": 24,
+      "Txt": "Kurt Zouma swings in a cross from the free kick."
+    },
+    {
+      "Min": 23,
+      "Txt": "The referee shows Jorginho the yellow card for unsportsmanlike conduct.",
+      "IT": 43
+    },
+    {
+      "Min": 23,
+      "Txt": "Jorginho hand-balls."
+    },
+    {
+      "Min": 22,
+      "Txt": "Vladimir Coufal relieves the pressure with a clearance"
+    },
+    {
+      "Min": 22,
+      "Txt": "Hakim Ziyech from Chelsea swings in the corner from the left."
+    },
+    {
+      "Min": 22,
+      "Txt": "Marcos Alonso from Chelsea tries to pick out a team-mate in the area but his cross is blocked by an opponent."
+    },
+    {
+      "Min": 22,
+      "Txt": "The referee signals a free kick as Tomas Soucek from West Ham trips Ruben Loftus-Cheek"
+    },
+    {
+      "Min": 21,
+      "Txt": "Safe hands from Edouard Mendy as he comes out and claims the ball"
+    },
+    {
+      "Min": 21,
+      "Txt": "Michail Antonio puts in a cross..."
+    },
+    {
+      "Min": 21,
+      "Txt": "Chelsea take a throw-in at the right side of the pitch in their own half of the field"
+    },
+    {
+      "Min": 20,
+      "Txt": "Good effort by Craig Dawson as he directs a shot on target, but the keeper saves it"
+    },
+    {
+      "Min": 20,
+      "Txt": "Issa Diop from West Ham tries to head the ball to a team mate, but it's intercepted by an opponent player."
+    },
+    {
+      "Min": 20,
+      "Txt": "Manuel Lanzini from West Ham swings in the corner from the left."
+    },
+    {
+      "Min": 20,
+      "Txt": "Ball possession: West Ham: 26%, Chelsea: 74%."
+    },
+    {
+      "Min": 20,
+      "Txt": "Ruben Loftus-Cheek clears the danger but is forced to give away a corner..."
+    },
+    {
+      "Min": 19,
+      "Txt": "Declan Rice swings in a cross from the free kick."
+    },
+    {
+      "Min": 19,
+      "Txt": "Marcos Alonso from Chelsea goes a bit too far there as the pulls down Declan Rice"
+    },
+    {
+      "Min": 18,
+      "Txt": "Chelsea take a throw-in at the left side of the pitch in their own half of the field"
+    },
+    {
+      "Min": 18,
+      "Txt": "Both sides are struggling to open up the opponent's defense"
+    },
+    {
+      "Min": 18,
+      "Txt": "West Ham take a throw-in at the right side of the pitch in their own half of the field"
+    },
+    {
+      "Min": 17,
+      "Txt": "Jorginho from Chelsea passes the ball in the box, but it's intercepted by an opponent player."
+    },
+    {
+      "Min": 17,
+      "Txt": "Chelsea is trying to create something here."
+    },
+    {
+      "Min": 16,
+      "Txt": "Hakim Ziyech from Chelsea concedes a foul on Declan Rice but the referee decides against stopping the play and waves play on!"
+    },
+    {
+      "Min": 16,
+      "Txt": "West Ham is in control of the ball."
+    },
+    {
+      "Min": 15,
+      "Txt": "Ball possession: West Ham: 23%, Chelsea: 77%."
+    },
+    {
+      "Min": 15,
+      "Txt": "The referee signals a free kick as Antonio Ruediger from Chelsea trips Jarrod Bowen"
+    },
+    {
+      "Min": 15,
+      "Txt": "Mason Mount from Chelsea sees his pass blocked by an opponent."
+    },
+    {
+      "Min": 14,
+      "Txt": "Chelsea is trying to create something here."
+    },
+    {
+      "Min": 13,
+      "Txt": "Chelsea is trying to create something here."
+    },
+    {
+      "Min": 13,
+      "Txt": "Hakim Ziyech from Chelsea makes an aerial pass in the box, but it's intercepted by an opponent player."
+    },
+    {
+      "Min": 12,
+      "Txt": "Chelsea is in control of the ball."
+    },
+    {
+      "Min": 11,
+      "Txt": "Mason Mount from Chelsea is ruled offside."
+    },
+    {
+      "Min": 11,
+      "Txt": "Could be a good chance here as Reece James from Chelsea cuts the opponents defense open with a through ball..."
+    },
+    {
+      "Min": 11,
+      "Txt": "Chelsea is in control of the ball."
+    },
+    {
+      "Min": 10,
+      "Txt": "Reece James shoots from outside the box, but Lukasz Fabianski has it under control"
+    },
+    {
+      "Min": 10,
+      "Txt": "Ball possession: West Ham: 32%, Chelsea: 68%."
+    },
+    {
+      "Min": 10,
+      "Txt": "Goal kick for Chelsea."
+    },
+    {
+      "Min": 9,
+      "Txt": "A chance presents itself to Tomas Soucek from West Ham but his header goes wide"
+    },
+    {
+      "Min": 9,
+      "Txt": "Michail Antonio puts in a cross..."
+    },
+    {
+      "Min": 9,
+      "Txt": "West Ham take a throw-in at the left side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 8,
+      "Txt": "Chelsea plays a short goal kick."
+    },
+    {
+      "Min": 8,
+      "Txt": "Jarrod Bowen from West Ham sends an effort wide of target"
+    },
+    {
+      "Min": 8,
+      "Txt": "West Ham is trying to create something here."
+    },
+    {
+      "Min": 8,
+      "Txt": "Thiago Silva could cost his team a goal after a defensive blunder."
+    },
+    {
+      "Min": 7,
+      "Txt": "West Ham take a throw-in at the right side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 7,
+      "Txt": "Safe hands from Lukasz Fabianski as he comes out and claims the ball"
+    },
+    {
+      "Min": 7,
+      "Txt": "A shot by Hakim Ziyech is blocked."
+    },
+    {
+      "Min": 6,
+      "Txt": "Reece James from Chelsea sends a deflected cross into the box."
+    },
+    {
+      "Min": 6,
+      "Txt": "The referee signals a free kick as Manuel Lanzini from West Ham trips Ruben Loftus-Cheek"
+    },
+    {
+      "Min": 5,
+      "Txt": "Chelsea take a throw-in at the left side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 5,
+      "Txt": "Ball possession: West Ham: 20%, Chelsea: 80%."
+    },
+    {
+      "Min": 5,
+      "Txt": "West Ham is in control of the ball."
+    },
+    {
+      "Min": 4,
+      "Txt": "West Ham is in control of the ball."
+    },
+    {
+      "Min": 3,
+      "Txt": "West Ham take a throw-in at the left side of the pitch in their own half of the field"
+    },
+    {
+      "Min": 3,
+      "Txt": "Declan Rice relieves the pressure with a clearance"
+    },
+    {
+      "Min": 3,
+      "Txt": "Reece James swings in a cross from the free kick."
+    },
+    {
+      "Min": 2,
+      "Txt": "Issa Diop is penalised for pushing Reece James."
+    },
+    {
+      "Min": 1,
+      "Txt": "Chelsea take a throw-in at the left side of the pitch in the opponent's half of the field"
+    },
+    {
+      "Min": 1,
+      "Txt": "Mason Mount from Chelsea sees his pass blocked by an opponent."
+    },
+    {
+      "Min": 1,
+      "Txt": "Marcos Alonso of Chelsea passes the ball to a team mate."
+    },
+    {
+      "Min": 1,
+      "Txt": "The pitch is in good condition today allowing for more technical play"
+    },
+    {
+      "Min": 1,
+      "Txt": "A perfect day for football with glorious sunshine."
+    },
+    {
+      "Min": 1,
+      "Txt": "Chelsea kick-off, and the game is underway."
+    },
+    {
+      "Txt": "The referee starts the match.",
+      "IT": 10
+    },
+    {
+      "Txt": "Welcome to London Stadium, the match will start in about 5 minutes."
+    }
+  ],
+  "Incs": {
+    "1": [
+      {
+        "Min": 23,
+        "Nm": 2,
+        "ID": "282775",
+        "Pnum": 0,
+        "Pn": "Jorginho",
+        "Psn": "",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 43,
+        "IR": "",
+        "Sor": 1
+      },
+      {
+        "Min": 29,
+        "Nm": 2,
+        "Sc": [
+          0,
+          1
+        ],
+        "Sor": 1,
+        "Incs": [
+          {
+            "Min": 29,
+            "Nm": 2,
+            "ID": "80562",
+            "Pnum": 0,
+            "Pn": "Thiago Silva",
+            "Psn": "Thiago Silva",
+            "PnumO": 0,
+            "PnO": "",
+            "PsO": "",
+            "IT": 36,
+            "IR": "",
+            "Sc": [
+              0,
+              1
+            ],
+            "Sor": 1
+          },
+          {
+            "Min": 29,
+            "Nm": 2,
+            "ID": "750032",
+            "Pnum": 0,
+            "Pn": "Mason Mount",
+            "Psn": "",
+            "PnumO": 0,
+            "PnO": "",
+            "PsO": "",
+            "IT": 63,
+            "IR": "",
+            "Sc": [
+              0,
+              1
+            ],
+            "Sor": 1
+          }
+        ]
+      },
+      {
+        "Min": 40,
+        "Nm": 1,
+        "ID": "210276",
+        "Pnum": 0,
+        "Pn": "Manuel Lanzini",
+        "Psn": "Manuel Lanzini",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 37,
+        "IR": "",
+        "Sc": [
+          1,
+          1
+        ],
+        "Sor": 0
+      },
+      {
+        "Min": 44,
+        "Nm": 2,
+        "Sc": [
+          1,
+          2
+        ],
+        "Sor": 3,
+        "Incs": [
+          {
+            "Min": 44,
+            "Nm": 2,
+            "ID": "750032",
+            "Pnum": 0,
+            "Pn": "Mason Mount",
+            "Psn": "Mason Mount",
+            "PnumO": 0,
+            "PnO": "",
+            "PsO": "",
+            "IT": 36,
+            "IR": "",
+            "Sc": [
+              1,
+              2
+            ],
+            "Sor": 3
+          },
+          {
+            "Min": 44,
+            "Nm": 2,
+            "ID": "360559",
+            "Pnum": 0,
+            "Pn": "Hakim Ziyech",
+            "Psn": "Hakim Ziyech",
+            "PnumO": 0,
+            "PnO": "",
+            "PsO": "",
+            "IT": 63,
+            "IR": "",
+            "Sc": [
+              1,
+              2
+            ],
+            "Sor": 3
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "Min": 56,
+        "Nm": 1,
+        "Sc": [
+          2,
+          2
+        ],
+        "Sor": 3,
+        "Incs": [
+          {
+            "Min": 56,
+            "Nm": 1,
+            "ID": "523825",
+            "Pnum": 0,
+            "Pn": "Jarrod Bowen",
+            "Psn": "Jarrod Bowen",
+            "PnumO": 0,
+            "PnO": "",
+            "PsO": "",
+            "IT": 36,
+            "IR": "",
+            "Sc": [
+              2,
+              2
+            ],
+            "Sor": 3
+          },
+          {
+            "Min": 56,
+            "Nm": 1,
+            "ID": "307317",
+            "Pnum": 0,
+            "Pn": "Vladimir Coufal",
+            "Psn": "Vladimir Coufal",
+            "PnumO": 0,
+            "PnO": "",
+            "PsO": "",
+            "IT": 63,
+            "IR": "",
+            "Sc": [
+              2,
+              2
+            ],
+            "Sor": 3
+          }
+        ]
+      },
+      {
+        "Min": 87,
+        "Nm": 1,
+        "Sc": [
+          3,
+          2
+        ],
+        "Sor": 1,
+        "Incs": [
+          {
+            "Min": 87,
+            "Nm": 1,
+            "ID": "418137",
+            "Pnum": 0,
+            "Pn": "Arthur Masuaku",
+            "Psn": "Arthur Masuaku",
+            "PnumO": 0,
+            "PnO": "",
+            "PsO": "",
+            "IT": 36,
+            "IR": "",
+            "Sc": [
+              3,
+              2
+            ],
+            "Sor": 1
+          },
+          {
+            "Min": 87,
+            "Nm": 1,
+            "ID": "158545",
+            "Pnum": 0,
+            "Pn": "Michail Antonio",
+            "Psn": "",
+            "PnumO": 0,
+            "PnO": "",
+            "PsO": "",
+            "IT": 63,
+            "IR": "",
+            "Sc": [
+              3,
+              2
+            ],
+            "Sor": 1
+          }
+        ]
+      },
+      {
+        "MinEx": 1,
+        "Min": 90,
+        "Nm": 1,
+        "ID": "307317",
+        "Pnum": 0,
+        "Pn": "Vladimir Coufal",
+        "Psn": "",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 43,
+        "IR": "",
+        "Sor": 6
+      },
+      {
+        "MinEx": 2,
+        "Min": 90,
+        "Nm": 2,
+        "ID": "807729",
+        "Pnum": 0,
+        "Pn": "Reece James",
+        "Psn": "",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 43,
+        "IR": "",
+        "Sor": 7
+      },
+      {
+        "MinEx": 4,
+        "Min": 90,
+        "Nm": 2,
+        "ID": "449232",
+        "Pnum": 0,
+        "Pn": "Andreas Christensen",
+        "Psn": "Andreas Christensen",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 43,
+        "IR": "",
+        "Sor": 12
+      }
+    ]
+  },
+  "Subs": {
+    "1": [
+      {
+        "Sec": 2,
+        "Min": 45,
+        "Nm": 1,
+        "ID": "770267",
+        "Pnum": 0,
+        "Pn": "Ben Johnson",
+        "Psn": "",
+        "IDo": "418137",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 4,
+        "IR": "",
+        "Sor": 0
+      },
+      {
+        "Sec": 2,
+        "Min": 45,
+        "Nm": 1,
+        "ID": "418137",
+        "Pnum": 0,
+        "Pn": "Arthur Masuaku",
+        "Psn": "",
+        "IDo": "770267",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 5,
+        "IR": "",
+        "Sor": 0
+      }
+    ],
+    "2": [
+      {
+        "Min": 46,
+        "Nm": 2,
+        "ID": "749736",
+        "Pnum": 0,
+        "Pn": "Kai Havertz",
+        "Psn": "",
+        "IDo": "181276",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 4,
+        "IR": "",
+        "Sor": 0
+      },
+      {
+        "Min": 46,
+        "Nm": 2,
+        "ID": "181276",
+        "Pnum": 0,
+        "Pn": "Romelu Lukaku",
+        "Psn": "",
+        "IDo": "749736",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 5,
+        "IR": "",
+        "Sor": 0
+      },
+      {
+        "Min": 64,
+        "Nm": 2,
+        "ID": "360559",
+        "Pnum": 0,
+        "Pn": "Hakim Ziyech",
+        "Psn": "",
+        "IDo": "846383",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 4,
+        "IR": "",
+        "Sor": 0
+      },
+      {
+        "Min": 64,
+        "Nm": 2,
+        "ID": "846383",
+        "Pnum": 0,
+        "Pn": "Callum Hudson-Odoi",
+        "Psn": "",
+        "IDo": "360559",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 5,
+        "IR": "",
+        "Sor": 0
+      },
+      {
+        "Min": 71,
+        "Nm": 1,
+        "ID": "281207",
+        "Pnum": 0,
+        "Pn": "Kurt Zouma",
+        "Psn": "",
+        "IDo": "683450",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 4,
+        "IR": "",
+        "Sor": 0
+      },
+      {
+        "Min": 71,
+        "Nm": 1,
+        "ID": "683450",
+        "Pnum": 0,
+        "Pn": "Pablo Fornals",
+        "Psn": "",
+        "IDo": "281207",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 5,
+        "IR": "",
+        "Sor": 0
+      },
+      {
+        "Min": 72,
+        "Nm": 2,
+        "ID": "196169",
+        "Pnum": 0,
+        "Pn": "Marcos Alonso",
+        "Psn": "",
+        "IDo": "688295",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 4,
+        "IR": "",
+        "Sor": 0
+      },
+      {
+        "Min": 72,
+        "Nm": 2,
+        "ID": "688295",
+        "Pnum": 0,
+        "Pn": "Christian Pulisic",
+        "Psn": "",
+        "IDo": "196169",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 5,
+        "IR": "",
+        "Sor": 0
+      },
+      {
+        "Min": 85,
+        "Nm": 1,
+        "ID": "210276",
+        "Pnum": 0,
+        "Pn": "Manuel Lanzini",
+        "Psn": "",
+        "IDo": "491883",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 4,
+        "IR": "",
+        "Sor": 0
+      },
+      {
+        "Min": 85,
+        "Nm": 1,
+        "ID": "491883",
+        "Pnum": 0,
+        "Pn": "Said Benrahma",
+        "Psn": "",
+        "IDo": "210276",
+        "PnumO": 0,
+        "PnO": "",
+        "PsO": "",
+        "IT": 5,
+        "IR": "",
+        "Sor": 0
+      }
+    ]
+  },
+  "Eloff": 0,
+  "Prns": [
+    {
+      "Pid": "78626",
+      "Fn": "David",
+      "Ln": "Moyes"
+    },
+    {
+      "Pid": "30973",
+      "Fn": "Lukasz",
+      "Ln": "Fabianski"
+    },
+    {
+      "Pid": "169162",
+      "Fn": "Craig",
+      "Ln": "Dawson"
+    },
+    {
+      "Pid": "281207",
+      "Fn": "Kurt",
+      "Ln": "Zouma"
+    },
+    {
+      "Pid": "696443",
+      "Fn": "Issa",
+      "Ln": "Diop"
+    },
+    {
+      "Pid": "307317",
+      "Fn": "Vladimir",
+      "Ln": "Coufal"
+    },
+    {
+      "Pid": "524437",
+      "Fn": "Tomas",
+      "Ln": "Soucek"
+    },
+    {
+      "Pid": "654096",
+      "Fn": "Declan",
+      "Ln": "Rice"
+    },
+    {
+      "Pid": "770267",
+      "Fn": "Ben",
+      "Ln": "Johnson"
+    },
+    {
+      "Pid": "523825",
+      "Fn": "Jarrod",
+      "Ln": "Bowen"
+    },
+    {
+      "Pid": "210276",
+      "Fn": "Manuel",
+      "Ln": "Lanzini"
+    },
+    {
+      "Pid": "158545",
+      "Fn": "Michail",
+      "Ln": "Antonio"
+    },
+    {
+      "Pid": "210164",
+      "Fn": "Alphonse",
+      "Ln": "Areola"
+    },
+    {
+      "Pid": "418137",
+      "Fn": "Arthur",
+      "Ln": "Masuaku"
+    },
+    {
+      "Pid": "1111611",
+      "Fn": "Harrison",
+      "Ln": "Ashby"
+    },
+    {
+      "Pid": "836797",
+      "Fn": "Alex",
+      "Ln": "Kral"
+    },
+    {
+      "Pid": "37169",
+      "Fn": "Mark",
+      "Ln": "Noble"
+    },
+    {
+      "Pid": "683450",
+      "Fn": "Pablo",
+      "Ln": "Fornals"
+    },
+    {
+      "Pid": "491883",
+      "Fn": "Said",
+      "Ln": "Benrahma"
+    },
+    {
+      "Pid": "132035",
+      "Fn": "Andriy",
+      "Ln": "Yarmolenko"
+    },
+    {
+      "Pid": "557677",
+      "Fn": "Nikola",
+      "Ln": "Vlasic"
+    },
+    {
+      "Pid": "179347",
+      "Fn": "Thomas",
+      "Ln": "Tuchel"
+    },
+    {
+      "Pid": "773229",
+      "Fn": "Edouard",
+      "Ln": "Mendy"
+    },
+    {
+      "Pid": "449232",
+      "Fn": "Andreas",
+      "Ln": "Christensen"
+    },
+    {
+      "Pid": "80562",
+      "Fn": "Thiago",
+      "Ln": "Silva"
+    },
+    {
+      "Pid": "276738",
+      "Fn": "Antonio",
+      "Ln": "Ruediger"
+    },
+    {
+      "Pid": "807729",
+      "Fn": "Reece",
+      "Ln": "James"
+    },
+    {
+      "Pid": "604982",
+      "Fn": "Ruben",
+      "Ln": "Loftus-Cheek"
+    },
+    {
+      "Pid": "282775",
+      "Fn": "",
+      "Ln": "Jorginho"
+    },
+    {
+      "Pid": "196169",
+      "Fn": "Marcos",
+      "Ln": "Alonso"
+    },
+    {
+      "Pid": "360559",
+      "Fn": "Hakim",
+      "Ln": "Ziyech"
+    },
+    {
+      "Pid": "750032",
+      "Fn": "Mason",
+      "Ln": "Mount"
+    },
+    {
+      "Pid": "749736",
+      "Fn": "Kai",
+      "Ln": "Havertz"
+    },
+    {
+      "Pid": "317564",
+      "Fn": "Kepa",
+      "Ln": "Arrizabalaga"
+    },
+    {
+      "Pid": "72541",
+      "Fn": "Cesar",
+      "Ln": "Azpilicueta"
+    },
+    {
+      "Pid": "782502",
+      "Fn": "Malang",
+      "Ln": "Sarr"
+    },
+    {
+      "Pid": "215384",
+      "Fn": "Ross",
+      "Ln": "Barkley"
+    },
+    {
+      "Pid": "309334",
+      "Fn": "Saul",
+      "Ln": "Niguez"
+    },
+    {
+      "Pid": "846383",
+      "Fn": "Callum",
+      "Ln": "Hudson-Odoi"
+    },
+    {
+      "Pid": "688295",
+      "Fn": "Christian",
+      "Ln": "Pulisic"
+    },
+    {
+      "Pid": "181276",
+      "Fn": "Romelu",
+      "Ln": "Lukaku"
+    },
+    {
+      "Pid": "450980",
+      "Fn": "Timo",
+      "Ln": "Werner"
+    }
+  ],
+  "H2H": [
+    {
+      "T1": [
+        {
+          "Nm": "Chelsea",
+          "ID": "2881",
+          "tbd": 0,
+          "Img": "enet/8455.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8455"
+            ],
+            "6": [
+              "38"
+            ],
+            "8": [
+              "2881"
+            ],
+            "12": [
+              "SBTP_231"
+            ],
+            "15": [
+              "8"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "1532c1",
+            "Sl": "1532c1",
+            "Nmb": "ffffff",
+            "Sq": true,
+            "SqC": "0a0372",
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "0a0372"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/chelsea-2021020913320920836-82/"
+        }
+      ],
+      "T2": [
+        {
+          "Nm": "West Ham United",
+          "ID": "252",
+          "tbd": 0,
+          "Img": "enet/8654.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8654"
+            ],
+            "6": [
+              "37"
+            ],
+            "8": [
+              "252"
+            ],
+            "12": [
+              "SBTP_376"
+            ],
+            "15": [
+              "20"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "74112e",
+            "Sl": "74112e",
+            "Nmb": "ffffff",
+            "Sq": false,
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "bbd6e9"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/west-ham-2021020913320920836-94/"
+        }
+      ],
+      "Stg": {
+        "Sid": "7126",
+        "Snm": "Premier League",
+        "Sds": "Premier League",
+        "Scd": "premier-league",
+        "Cid": "34",
+        "Cnm": "England",
+        "Csnm": "England",
+        "Ccd": "england",
+        "Ccdiso": "GBR",
+        "CompId": "10",
+        "CompN": "Premier League",
+        "CompST": "England",
+        "CompD": "England",
+        "Scu": 0,
+        "Chi": 0,
+        "Shi": 0,
+        "Sdn": "Premier League"
+      },
+      "Esid": 1,
+      "Eps": "NS",
+      "Epr": 0,
+      "Esd": 20220423140000
+    },
+    {
+      "T1": [
+        {
+          "Nm": "West Ham United",
+          "ID": "252",
+          "tbd": 0,
+          "Img": "enet/8654.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8654"
+            ],
+            "6": [
+              "37"
+            ],
+            "8": [
+              "252"
+            ],
+            "12": [
+              "SBTP_376"
+            ],
+            "15": [
+              "20"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "74112e",
+            "Sl": "74112e",
+            "Nmb": "ffffff",
+            "Sq": false,
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "bbd6e9"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/west-ham-2021020913320920836-94/"
+        }
+      ],
+      "T2": [
+        {
+          "Nm": "Chelsea",
+          "ID": "2881",
+          "tbd": 0,
+          "Img": "enet/8455.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8455"
+            ],
+            "6": [
+              "38"
+            ],
+            "8": [
+              "2881"
+            ],
+            "12": [
+              "SBTP_231"
+            ],
+            "15": [
+              "8"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "1532c1",
+            "Sl": "1532c1",
+            "Nmb": "ffffff",
+            "Sq": true,
+            "SqC": "0a0372",
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "0a0372"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/chelsea-2021020913320920836-82/"
+        }
+      ],
+      "Tr1": "0",
+      "Tr2": "1",
+      "Stg": {
+        "Sid": "292",
+        "Snm": "Premier League 20/21",
+        "Sds": "Premier League 20/21",
+        "Scd": "premier-league-2020-2021",
+        "Cid": "34",
+        "Cnm": "England",
+        "Csnm": "England",
+        "Ccd": "england",
+        "Ccdiso": "GBR",
+        "CompId": "9",
+        "CompN": "Premier League 20/21",
+        "CompST": "England",
+        "CompD": "England",
+        "Scu": 0,
+        "Chi": 0,
+        "Shi": 0,
+        "Sdn": "Premier League 20/21"
+      },
+      "Esid": 6,
+      "Eps": "FT",
+      "Epr": 2,
+      "Ewt": 2,
+      "Esd": 20210424163000
+    },
+    {
+      "T1": [
+        {
+          "Nm": "Chelsea",
+          "ID": "2881",
+          "tbd": 0,
+          "Img": "enet/8455.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8455"
+            ],
+            "6": [
+              "38"
+            ],
+            "8": [
+              "2881"
+            ],
+            "12": [
+              "SBTP_231"
+            ],
+            "15": [
+              "8"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "1532c1",
+            "Sl": "1532c1",
+            "Nmb": "ffffff",
+            "Sq": true,
+            "SqC": "0a0372",
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "0a0372"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/chelsea-2021020913320920836-82/"
+        }
+      ],
+      "T2": [
+        {
+          "Nm": "West Ham United",
+          "ID": "252",
+          "tbd": 0,
+          "Img": "enet/8654.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8654"
+            ],
+            "6": [
+              "37"
+            ],
+            "8": [
+              "252"
+            ],
+            "12": [
+              "SBTP_376"
+            ],
+            "15": [
+              "20"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "74112e",
+            "Sl": "74112e",
+            "Nmb": "ffffff",
+            "Sq": false,
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "bbd6e9"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/west-ham-2021020913320920836-94/"
+        }
+      ],
+      "Tr1": "3",
+      "Tr2": "0",
+      "Stg": {
+        "Sid": "292",
+        "Snm": "Premier League 20/21",
+        "Sds": "Premier League 20/21",
+        "Scd": "premier-league-2020-2021",
+        "Cid": "34",
+        "Cnm": "England",
+        "Csnm": "England",
+        "Ccd": "england",
+        "Ccdiso": "GBR",
+        "CompId": "9",
+        "CompN": "Premier League 20/21",
+        "CompST": "England",
+        "CompD": "England",
+        "Scu": 0,
+        "Chi": 0,
+        "Shi": 0,
+        "Sdn": "Premier League 20/21"
+      },
+      "Esid": 6,
+      "Eps": "FT",
+      "Epr": 2,
+      "Ewt": 1,
+      "Esd": 20201221200000
+    },
+    {
+      "T1": [
+        {
+          "Nm": "West Ham United",
+          "ID": "252",
+          "tbd": 0,
+          "Img": "enet/8654.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8654"
+            ],
+            "6": [
+              "37"
+            ],
+            "8": [
+              "252"
+            ],
+            "12": [
+              "SBTP_376"
+            ],
+            "15": [
+              "20"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "74112e",
+            "Sl": "74112e",
+            "Nmb": "ffffff",
+            "Sq": false,
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "bbd6e9"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/west-ham-2021020913320920836-94/"
+        }
+      ],
+      "T2": [
+        {
+          "Nm": "Chelsea",
+          "ID": "2881",
+          "tbd": 0,
+          "Img": "enet/8455.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8455"
+            ],
+            "6": [
+              "38"
+            ],
+            "8": [
+              "2881"
+            ],
+            "12": [
+              "SBTP_231"
+            ],
+            "15": [
+              "8"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "1532c1",
+            "Sl": "1532c1",
+            "Nmb": "ffffff",
+            "Sq": true,
+            "SqC": "0a0372",
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "0a0372"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/chelsea-2021020913320920836-82/"
+        }
+      ],
+      "Tr1": "3",
+      "Tr2": "2",
+      "Stg": {
+        "Sid": "6081",
+        "Snm": "Premier League",
+        "Sds": "Premier League",
+        "Scd": "premier-league-2019-2020",
+        "Cid": "34",
+        "Cnm": "England",
+        "Csnm": "England",
+        "Ccd": "england",
+        "Ccdiso": "GBR",
+        "Scu": 0,
+        "Chi": 0,
+        "Shi": 1,
+        "Sdn": "Premier League"
+      },
+      "Esid": 6,
+      "Eps": "FT",
+      "Epr": 2,
+      "Ewt": 1,
+      "Esd": 20200701191500
+    },
+    {
+      "T1": [
+        {
+          "Nm": "Chelsea",
+          "ID": "2881",
+          "tbd": 0,
+          "Img": "enet/8455.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8455"
+            ],
+            "6": [
+              "38"
+            ],
+            "8": [
+              "2881"
+            ],
+            "12": [
+              "SBTP_231"
+            ],
+            "15": [
+              "8"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "1532c1",
+            "Sl": "1532c1",
+            "Nmb": "ffffff",
+            "Sq": true,
+            "SqC": "0a0372",
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "0a0372"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/chelsea-2021020913320920836-82/"
+        }
+      ],
+      "T2": [
+        {
+          "Nm": "West Ham United",
+          "ID": "252",
+          "tbd": 0,
+          "Img": "enet/8654.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8654"
+            ],
+            "6": [
+              "37"
+            ],
+            "8": [
+              "252"
+            ],
+            "12": [
+              "SBTP_376"
+            ],
+            "15": [
+              "20"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "74112e",
+            "Sl": "74112e",
+            "Nmb": "ffffff",
+            "Sq": false,
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "bbd6e9"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/west-ham-2021020913320920836-94/"
+        }
+      ],
+      "Tr1": "0",
+      "Tr2": "1",
+      "Stg": {
+        "Sid": "6081",
+        "Snm": "Premier League",
+        "Sds": "Premier League",
+        "Scd": "premier-league-2019-2020",
+        "Cid": "34",
+        "Cnm": "England",
+        "Csnm": "England",
+        "Ccd": "england",
+        "Ccdiso": "GBR",
+        "Scu": 0,
+        "Chi": 0,
+        "Shi": 1,
+        "Sdn": "Premier League"
+      },
+      "Esid": 6,
+      "Eps": "FT",
+      "Epr": 2,
+      "Ewt": 2,
+      "Esd": 20191130150000
+    },
+    {
+      "T1": [
+        {
+          "Nm": "Chelsea",
+          "ID": "2881",
+          "tbd": 0,
+          "Img": "enet/8455.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8455"
+            ],
+            "6": [
+              "38"
+            ],
+            "8": [
+              "2881"
+            ],
+            "12": [
+              "SBTP_231"
+            ],
+            "15": [
+              "8"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "1532c1",
+            "Sl": "1532c1",
+            "Nmb": "ffffff",
+            "Sq": true,
+            "SqC": "0a0372",
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "0a0372"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/chelsea-2021020913320920836-82/"
+        }
+      ],
+      "T2": [
+        {
+          "Nm": "West Ham United",
+          "ID": "252",
+          "tbd": 0,
+          "Img": "enet/8654.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8654"
+            ],
+            "6": [
+              "37"
+            ],
+            "8": [
+              "252"
+            ],
+            "12": [
+              "SBTP_376"
+            ],
+            "15": [
+              "20"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "74112e",
+            "Sl": "74112e",
+            "Nmb": "ffffff",
+            "Sq": false,
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "bbd6e9"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/west-ham-2021020913320920836-94/"
+        }
+      ],
+      "Tr1": "2",
+      "Tr2": "0",
+      "Esid": 6,
+      "Eps": "FT",
+      "Epr": 2,
+      "Ewt": 1,
+      "Esd": 20190408190000,
+      "Stg": {
+        "Sid": "855968",
+        "Snm": "Premier League",
+        "Cid": "47",
+        "Cnm": "England 1",
+        "Scu": 0,
+        "Chi": 0,
+        "Shi": 0,
+        "Sdn": "Premier League"
+      }
+    },
+    {
+      "T1": [
+        {
+          "Nm": "West Ham United",
+          "ID": "252",
+          "tbd": 0,
+          "Img": "enet/8654.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8654"
+            ],
+            "6": [
+              "37"
+            ],
+            "8": [
+              "252"
+            ],
+            "12": [
+              "SBTP_376"
+            ],
+            "15": [
+              "20"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "74112e",
+            "Sl": "74112e",
+            "Nmb": "ffffff",
+            "Sq": false,
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "bbd6e9"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/west-ham-2021020913320920836-94/"
+        }
+      ],
+      "T2": [
+        {
+          "Nm": "Chelsea",
+          "ID": "2881",
+          "tbd": 0,
+          "Img": "enet/8455.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8455"
+            ],
+            "6": [
+              "38"
+            ],
+            "8": [
+              "2881"
+            ],
+            "12": [
+              "SBTP_231"
+            ],
+            "15": [
+              "8"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "1532c1",
+            "Sl": "1532c1",
+            "Nmb": "ffffff",
+            "Sq": true,
+            "SqC": "0a0372",
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "0a0372"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/chelsea-2021020913320920836-82/"
+        }
+      ],
+      "Tr1": "0",
+      "Tr2": "0",
+      "Esid": 6,
+      "Eps": "FT",
+      "Epr": 2,
+      "Ewt": 0,
+      "Esd": 20180923123000,
+      "Stg": {
+        "Sid": "855968",
+        "Snm": "Premier League",
+        "Cid": "47",
+        "Cnm": "England 1",
+        "Scu": 0,
+        "Chi": 0,
+        "Shi": 0,
+        "Sdn": "Premier League"
+      }
+    },
+    {
+      "T1": [
+        {
+          "Nm": "Chelsea",
+          "ID": "2881",
+          "tbd": 0,
+          "Img": "enet/8455.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8455"
+            ],
+            "6": [
+              "38"
+            ],
+            "8": [
+              "2881"
+            ],
+            "12": [
+              "SBTP_231"
+            ],
+            "15": [
+              "8"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "1532c1",
+            "Sl": "1532c1",
+            "Nmb": "ffffff",
+            "Sq": true,
+            "SqC": "0a0372",
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "0a0372"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/chelsea-2021020913320920836-82/"
+        }
+      ],
+      "T2": [
+        {
+          "Nm": "West Ham United",
+          "ID": "252",
+          "tbd": 0,
+          "Img": "enet/8654.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8654"
+            ],
+            "6": [
+              "37"
+            ],
+            "8": [
+              "252"
+            ],
+            "12": [
+              "SBTP_376"
+            ],
+            "15": [
+              "20"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "74112e",
+            "Sl": "74112e",
+            "Nmb": "ffffff",
+            "Sq": false,
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "bbd6e9"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/west-ham-2021020913320920836-94/"
+        }
+      ],
+      "Tr1": "1",
+      "Tr2": "1",
+      "Esid": 6,
+      "Eps": "FT",
+      "Epr": 2,
+      "Ewt": 0,
+      "Esd": 20180408153000,
+      "Stg": {
+        "Sid": "850080",
+        "Snm": "Premier League",
+        "Cid": "47",
+        "Cnm": "England 1",
+        "Scu": 0,
+        "Chi": 0,
+        "Shi": 0,
+        "Sdn": "Premier League"
+      }
+    },
+    {
+      "T1": [
+        {
+          "Nm": "West Ham United",
+          "ID": "252",
+          "tbd": 0,
+          "Img": "enet/8654.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8654"
+            ],
+            "6": [
+              "37"
+            ],
+            "8": [
+              "252"
+            ],
+            "12": [
+              "SBTP_376"
+            ],
+            "15": [
+              "20"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "74112e",
+            "Sl": "74112e",
+            "Nmb": "ffffff",
+            "Sq": false,
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "bbd6e9"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/west-ham-2021020913320920836-94/"
+        }
+      ],
+      "T2": [
+        {
+          "Nm": "Chelsea",
+          "ID": "2881",
+          "tbd": 0,
+          "Img": "enet/8455.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8455"
+            ],
+            "6": [
+              "38"
+            ],
+            "8": [
+              "2881"
+            ],
+            "12": [
+              "SBTP_231"
+            ],
+            "15": [
+              "8"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "1532c1",
+            "Sl": "1532c1",
+            "Nmb": "ffffff",
+            "Sq": true,
+            "SqC": "0a0372",
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "0a0372"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/chelsea-2021020913320920836-82/"
+        }
+      ],
+      "Tr1": "1",
+      "Tr2": "0",
+      "Esid": 6,
+      "Eps": "FT",
+      "Epr": 2,
+      "Ewt": 1,
+      "Esd": 20171209123000,
+      "Stg": {
+        "Sid": "850080",
+        "Snm": "Premier League",
+        "Cid": "47",
+        "Cnm": "England 1",
+        "Scu": 0,
+        "Chi": 0,
+        "Shi": 0,
+        "Sdn": "Premier League"
+      }
+    },
+    {
+      "T1": [
+        {
+          "Nm": "West Ham United",
+          "ID": "252",
+          "tbd": 0,
+          "Img": "enet/8654.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8654"
+            ],
+            "6": [
+              "37"
+            ],
+            "8": [
+              "252"
+            ],
+            "12": [
+              "SBTP_376"
+            ],
+            "15": [
+              "20"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "74112e",
+            "Sl": "74112e",
+            "Nmb": "ffffff",
+            "Sq": false,
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "bbd6e9"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/west-ham-2021020913320920836-94/"
+        }
+      ],
+      "T2": [
+        {
+          "Nm": "Chelsea",
+          "ID": "2881",
+          "tbd": 0,
+          "Img": "enet/8455.png",
+          "Gd": 1,
+          "Pids": {
+            "1": [
+              "8455"
+            ],
+            "6": [
+              "38"
+            ],
+            "8": [
+              "2881"
+            ],
+            "12": [
+              "SBTP_231"
+            ],
+            "15": [
+              "8"
+            ]
+          },
+          "CoNm": "England",
+          "CoId": "GBR",
+          "Shrt": {
+            "Bs": "1532c1",
+            "Sl": "1532c1",
+            "Nmb": "ffffff",
+            "Sq": true,
+            "SqC": "0a0372",
+            "St": false,
+            "Hst": false,
+            "Spl": false,
+            "Sld": "0a0372"
+          },
+          "HasVideo": true,
+          "NewsTag": "/team/chelsea-2021020913320920836-82/"
+        }
+      ],
+      "Tr1": "1",
+      "Tr2": "2",
+      "Esid": 6,
+      "Eps": "FT",
+      "Epr": 2,
+      "Ewt": 2,
+      "Esd": 20170306200000,
+      "Stg": {
+        "Sid": "844714",
+        "Snm": "Premier League",
+        "Cid": "47",
+        "Cnm": "England 1",
+        "Scu": 0,
+        "Chi": 0,
+        "Shi": 0,
+        "Sdn": "Premier League"
+      }
+    }
+  ],
+  "LgT": [
+    {
+      "Tables": [
+        {
+          "LTT": 1,
+          "team": [
+            {
+              "rnk": 1,
+              "Tid": "12633",
+              "win": 11,
+              "winn": "11",
+              "wreg": 11,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Manchester City",
+              "lst": 2,
+              "lstn": "2",
+              "lreg": 2,
+              "lot": 0,
+              "lap": 0,
+              "drw": 2,
+              "drwn": "2",
+              "gf": 32,
+              "ga": 9,
+              "gd": 23,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "35",
+              "phr": [
+                20
+              ],
+              "Ipr": 0,
+              "Img": "enet/8456.png",
+              "pts": 35,
+              "pld": 15
+            },
+            {
+              "rnk": 2,
+              "Tid": "3340",
+              "win": 10,
+              "winn": "10",
+              "wreg": 10,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Liverpool",
+              "lst": 1,
+              "lstn": "1",
+              "lreg": 1,
+              "lot": 0,
+              "lap": 0,
+              "drw": 4,
+              "drwn": "4",
+              "gf": 44,
+              "ga": 12,
+              "gd": 32,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "34",
+              "phr": [
+                20
+              ],
+              "Ipr": 0,
+              "Img": "enet/8650.png",
+              "pts": 34,
+              "pld": 15
+            },
+            {
+              "rnk": 3,
+              "Tid": "2881",
+              "win": 10,
+              "winn": "10",
+              "wreg": 10,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Chelsea",
+              "lst": 2,
+              "lstn": "2",
+              "lreg": 2,
+              "lot": 0,
+              "lap": 0,
+              "drw": 3,
+              "drwn": "3",
+              "gf": 35,
+              "ga": 9,
+              "gd": 26,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "33",
+              "phr": [
+                20
+              ],
+              "Ipr": 0,
+              "Img": "enet/8455.png",
+              "pts": 33,
+              "pld": 15
+            },
+            {
+              "rnk": 4,
+              "Tid": "252",
+              "win": 8,
+              "winn": "8",
+              "wreg": 8,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "West Ham United",
+              "lst": 4,
+              "lstn": "4",
+              "lreg": 4,
+              "lot": 0,
+              "lap": 0,
+              "drw": 3,
+              "drwn": "3",
+              "gf": 28,
+              "ga": 19,
+              "gd": 9,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "27",
+              "phr": [
+                20
+              ],
+              "Ipr": 0,
+              "Img": "enet/8654.png",
+              "pts": 27,
+              "pld": 15
+            },
+            {
+              "rnk": 5,
+              "Tid": "2773",
+              "win": 7,
+              "winn": "7",
+              "wreg": 7,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Arsenal",
+              "lst": 5,
+              "lstn": "5",
+              "lreg": 5,
+              "lot": 0,
+              "lap": 0,
+              "drw": 2,
+              "drwn": "2",
+              "gf": 17,
+              "ga": 20,
+              "gd": -3,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "23",
+              "phr": [
+                25
+              ],
+              "Ipr": 0,
+              "Img": "enet/9825.png",
+              "pts": 23,
+              "pld": 14
+            },
+            {
+              "rnk": 6,
+              "Tid": "3339",
+              "win": 7,
+              "winn": "7",
+              "wreg": 7,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Tottenham Hotspur",
+              "lst": 5,
+              "lstn": "5",
+              "lreg": 5,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 13,
+              "ga": 17,
+              "gd": -4,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "22",
+              "Ipr": 0,
+              "Img": "enet/8586.png",
+              "pts": 22,
+              "pld": 13
+            },
+            {
+              "rnk": 7,
+              "Tid": "2810",
+              "win": 6,
+              "winn": "6",
+              "wreg": 6,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Manchester United",
+              "lst": 5,
+              "lstn": "5",
+              "lreg": 5,
+              "lot": 0,
+              "lap": 0,
+              "drw": 3,
+              "drwn": "3",
+              "gf": 24,
+              "ga": 24,
+              "gd": 0,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "21",
+              "Ipr": 0,
+              "Img": "enet/10260.png",
+              "pts": 21,
+              "pld": 14
+            },
+            {
+              "rnk": 8,
+              "Tid": "2985",
+              "win": 6,
+              "winn": "6",
+              "wreg": 6,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Wolverhampton Wanderers",
+              "lst": 6,
+              "lstn": "6",
+              "lreg": 6,
+              "lot": 0,
+              "lap": 0,
+              "drw": 3,
+              "drwn": "3",
+              "gf": 12,
+              "ga": 13,
+              "gd": -1,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "21",
+              "Ipr": 0,
+              "Img": "enet/8602.png",
+              "pts": 21,
+              "pld": 15
+            },
+            {
+              "rnk": 9,
+              "Tid": "2918",
+              "win": 4,
+              "winn": "4",
+              "wreg": 4,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Brighton & Hove Albion",
+              "lst": 3,
+              "lstn": "3",
+              "lreg": 3,
+              "lot": 0,
+              "lap": 0,
+              "drw": 8,
+              "drwn": "8",
+              "gf": 14,
+              "ga": 16,
+              "gd": -2,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "20",
+              "Ipr": 0,
+              "Img": "enet/10204.png",
+              "pts": 20,
+              "pld": 15
+            },
+            {
+              "rnk": 10,
+              "Tid": "2901",
+              "win": 5,
+              "winn": "5",
+              "wreg": 5,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Leicester City",
+              "lst": 5,
+              "lstn": "5",
+              "lreg": 5,
+              "lot": 0,
+              "lap": 0,
+              "drw": 4,
+              "drwn": "4",
+              "gf": 22,
+              "ga": 25,
+              "gd": -3,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "19",
+              "Ipr": 0,
+              "Img": "enet/8197.png",
+              "pts": 19,
+              "pld": 14
+            },
+            {
+              "rnk": 11,
+              "Tid": "2772",
+              "win": 3,
+              "winn": "3",
+              "wreg": 3,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Crystal Palace",
+              "lst": 4,
+              "lstn": "4",
+              "lreg": 4,
+              "lot": 0,
+              "lap": 0,
+              "drw": 7,
+              "drwn": "7",
+              "gf": 19,
+              "ga": 20,
+              "gd": -1,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "16",
+              "Ipr": 0,
+              "Img": "enet/9826.png",
+              "pts": 16,
+              "pld": 14
+            },
+            {
+              "rnk": 12,
+              "Tid": "2865",
+              "win": 4,
+              "winn": "4",
+              "wreg": 4,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Brentford",
+              "lst": 6,
+              "lstn": "6",
+              "lreg": 6,
+              "lot": 0,
+              "lap": 0,
+              "drw": 4,
+              "drwn": "4",
+              "gf": 17,
+              "ga": 19,
+              "gd": -2,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "16",
+              "Ipr": 0,
+              "Img": "enet/9937.png",
+              "pts": 16,
+              "pld": 14
+            },
+            {
+              "rnk": 13,
+              "Tid": "3863",
+              "win": 5,
+              "winn": "5",
+              "wreg": 5,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Aston Villa",
+              "lst": 8,
+              "lstn": "8",
+              "lreg": 8,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 19,
+              "ga": 23,
+              "gd": -4,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "16",
+              "Ipr": 0,
+              "Img": "enet/10252.png",
+              "pts": 16,
+              "pld": 14
+            },
+            {
+              "rnk": 14,
+              "Tid": "2902",
+              "win": 3,
+              "winn": "3",
+              "wreg": 3,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Southampton",
+              "lst": 5,
+              "lstn": "5",
+              "lreg": 5,
+              "lot": 0,
+              "lap": 0,
+              "drw": 7,
+              "drwn": "7",
+              "gf": 14,
+              "ga": 21,
+              "gd": -7,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "16",
+              "Ipr": 0,
+              "Img": "enet/8466.png",
+              "pts": 16,
+              "pld": 15
+            },
+            {
+              "rnk": 15,
+              "Tid": "2917",
+              "win": 4,
+              "winn": "4",
+              "wreg": 4,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Everton",
+              "lst": 7,
+              "lstn": "7",
+              "lreg": 7,
+              "lot": 0,
+              "lap": 0,
+              "drw": 3,
+              "drwn": "3",
+              "gf": 17,
+              "ga": 24,
+              "gd": -7,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "15",
+              "Ipr": 0,
+              "Img": "enet/8668.png",
+              "pts": 15,
+              "pld": 14
+            },
+            {
+              "rnk": 16,
+              "Tid": "3143",
+              "win": 3,
+              "winn": "3",
+              "wreg": 3,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Leeds United",
+              "lst": 5,
+              "lstn": "5",
+              "lreg": 5,
+              "lot": 0,
+              "lap": 0,
+              "drw": 6,
+              "drwn": "6",
+              "gf": 13,
+              "ga": 20,
+              "gd": -7,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "15",
+              "Ipr": 0,
+              "Img": "enet/8463.png",
+              "pts": 15,
+              "pld": 14
+            },
+            {
+              "rnk": 17,
+              "Tid": "3929",
+              "win": 4,
+              "winn": "4",
+              "wreg": 4,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Watford",
+              "lst": 10,
+              "lstn": "10",
+              "lreg": 10,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 20,
+              "ga": 29,
+              "gd": -9,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "13",
+              "Ipr": 0,
+              "Img": "enet/9817.png",
+              "pts": 13,
+              "pld": 15
+            },
+            {
+              "rnk": 18,
+              "Tid": "2882",
+              "win": 1,
+              "winn": "1",
+              "wreg": 1,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Burnley",
+              "lst": 6,
+              "lstn": "6",
+              "lreg": 6,
+              "lot": 0,
+              "lap": 0,
+              "drw": 7,
+              "drwn": "7",
+              "gf": 14,
+              "ga": 21,
+              "gd": -7,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "10",
+              "phr": [
+                15
+              ],
+              "Ipr": 0,
+              "Img": "enet/8191.png",
+              "pts": 10,
+              "pld": 14
+            },
+            {
+              "rnk": 19,
+              "Tid": "2986",
+              "win": 1,
+              "winn": "1",
+              "wreg": 1,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Newcastle United",
+              "lst": 7,
+              "lstn": "7",
+              "lreg": 7,
+              "lot": 0,
+              "lap": 0,
+              "drw": 7,
+              "drwn": "7",
+              "gf": 17,
+              "ga": 30,
+              "gd": -13,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "10",
+              "phr": [
+                15
+              ],
+              "Ipr": 0,
+              "Img": "enet/10261.png",
+              "pts": 10,
+              "pld": 15
+            },
+            {
+              "rnk": 20,
+              "Tid": "2811",
+              "win": 2,
+              "winn": "2",
+              "wreg": 2,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Norwich City",
+              "lst": 8,
+              "lstn": "8",
+              "lreg": 8,
+              "lot": 0,
+              "lap": 0,
+              "drw": 4,
+              "drwn": "4",
+              "gf": 8,
+              "ga": 28,
+              "gd": -20,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "10",
+              "phr": [
+                15
+              ],
+              "Ipr": 0,
+              "Img": "enet/9850.png",
+              "pts": 10,
+              "pld": 14
+            }
+          ],
+          "phrX": [
+            {
+              "V": 150,
+              "D": 1
+            },
+            {
+              "V": 211,
+              "D": 1
+            }
+          ]
+        },
+        {
+          "LTT": 2,
+          "team": [
+            {
+              "rnk": 1,
+              "Tid": "12633",
+              "win": 5,
+              "winn": "5",
+              "wreg": 5,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Manchester City",
+              "lst": 1,
+              "lstn": "1",
+              "lreg": 1,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 17,
+              "ga": 3,
+              "gd": 14,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "16",
+              "Ipr": 0,
+              "Img": "enet/8456.png",
+              "pts": 16,
+              "pld": 7
+            },
+            {
+              "rnk": 2,
+              "Tid": "2773",
+              "win": 5,
+              "winn": "5",
+              "wreg": 5,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Arsenal",
+              "lst": 1,
+              "lstn": "1",
+              "lreg": 1,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 12,
+              "ga": 6,
+              "gd": 6,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "16",
+              "Ipr": 0,
+              "Img": "enet/9825.png",
+              "pts": 16,
+              "pld": 7
+            },
+            {
+              "rnk": 3,
+              "Tid": "3340",
+              "win": 4,
+              "winn": "4",
+              "wreg": 4,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Liverpool",
+              "lst": 0,
+              "lstn": "0",
+              "lreg": 0,
+              "lot": 0,
+              "lap": 0,
+              "drw": 3,
+              "drwn": "3",
+              "gf": 18,
+              "ga": 5,
+              "gd": 13,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "15",
+              "Ipr": 0,
+              "Img": "enet/8650.png",
+              "pts": 15,
+              "pld": 7
+            },
+            {
+              "rnk": 4,
+              "Tid": "3339",
+              "win": 5,
+              "winn": "5",
+              "wreg": 5,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Tottenham Hotspur",
+              "lst": 2,
+              "lstn": "2",
+              "lreg": 2,
+              "lot": 0,
+              "lap": 0,
+              "drw": 0,
+              "drwn": "0",
+              "gf": 8,
+              "ga": 8,
+              "gd": 0,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "15",
+              "Ipr": 0,
+              "Img": "enet/8586.png",
+              "pts": 15,
+              "pld": 7
+            },
+            {
+              "rnk": 5,
+              "Tid": "2881",
+              "win": 4,
+              "winn": "4",
+              "wreg": 4,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Chelsea",
+              "lst": 1,
+              "lstn": "1",
+              "lreg": 1,
+              "lot": 0,
+              "lap": 0,
+              "drw": 2,
+              "drwn": "2",
+              "gf": 18,
+              "ga": 4,
+              "gd": 14,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "14",
+              "Ipr": 0,
+              "Img": "enet/8455.png",
+              "pts": 14,
+              "pld": 7
+            },
+            {
+              "rnk": 6,
+              "Tid": "252",
+              "win": 4,
+              "winn": "4",
+              "wreg": 4,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "West Ham United",
+              "lst": 2,
+              "lstn": "2",
+              "lreg": 2,
+              "lot": 0,
+              "lap": 0,
+              "drw": 2,
+              "drwn": "2",
+              "gf": 16,
+              "ga": 12,
+              "gd": 4,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "14",
+              "Ipr": 0,
+              "Img": "enet/8654.png",
+              "pts": 14,
+              "pld": 8
+            },
+            {
+              "rnk": 7,
+              "Tid": "2902",
+              "win": 2,
+              "winn": "2",
+              "wreg": 2,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Southampton",
+              "lst": 1,
+              "lstn": "1",
+              "lreg": 1,
+              "lot": 0,
+              "lap": 0,
+              "drw": 5,
+              "drwn": "5",
+              "gf": 8,
+              "ga": 7,
+              "gd": 1,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "11",
+              "Ipr": 0,
+              "Img": "enet/8466.png",
+              "pts": 11,
+              "pld": 8
+            },
+            {
+              "rnk": 8,
+              "Tid": "2772",
+              "win": 2,
+              "winn": "2",
+              "wreg": 2,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Crystal Palace",
+              "lst": 1,
+              "lstn": "1",
+              "lreg": 1,
+              "lot": 0,
+              "lap": 0,
+              "drw": 4,
+              "drwn": "4",
+              "gf": 10,
+              "ga": 6,
+              "gd": 4,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "10",
+              "Ipr": 0,
+              "Img": "enet/9826.png",
+              "pts": 10,
+              "pld": 7
+            },
+            {
+              "rnk": 9,
+              "Tid": "3863",
+              "win": 3,
+              "winn": "3",
+              "wreg": 3,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Aston Villa",
+              "lst": 3,
+              "lstn": "3",
+              "lreg": 3,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 12,
+              "ga": 10,
+              "gd": 2,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "10",
+              "Ipr": 0,
+              "Img": "enet/10252.png",
+              "pts": 10,
+              "pld": 7
+            },
+            {
+              "rnk": 10,
+              "Tid": "2810",
+              "win": 3,
+              "winn": "3",
+              "wreg": 3,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Manchester United",
+              "lst": 3,
+              "lstn": "3",
+              "lreg": 3,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 13,
+              "ga": 13,
+              "gd": 0,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "10",
+              "Ipr": 0,
+              "Img": "enet/10260.png",
+              "pts": 10,
+              "pld": 7
+            },
+            {
+              "rnk": 11,
+              "Tid": "2917",
+              "win": 3,
+              "winn": "3",
+              "wreg": 3,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Everton",
+              "lst": 3,
+              "lstn": "3",
+              "lreg": 3,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 11,
+              "ga": 12,
+              "gd": -1,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "10",
+              "Ipr": 0,
+              "Img": "enet/8668.png",
+              "pts": 10,
+              "pld": 7
+            },
+            {
+              "rnk": 12,
+              "Tid": "2901",
+              "win": 3,
+              "winn": "3",
+              "wreg": 3,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Leicester City",
+              "lst": 3,
+              "lstn": "3",
+              "lreg": 3,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 11,
+              "ga": 12,
+              "gd": -1,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "10",
+              "Ipr": 0,
+              "Img": "enet/8197.png",
+              "pts": 10,
+              "pld": 7
+            },
+            {
+              "rnk": 13,
+              "Tid": "2985",
+              "win": 3,
+              "winn": "3",
+              "wreg": 3,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Wolverhampton Wanderers",
+              "lst": 4,
+              "lstn": "4",
+              "lreg": 4,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 5,
+              "ga": 7,
+              "gd": -2,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "10",
+              "Ipr": 0,
+              "Img": "enet/8602.png",
+              "pts": 10,
+              "pld": 8
+            },
+            {
+              "rnk": 14,
+              "Tid": "3143",
+              "win": 2,
+              "winn": "2",
+              "wreg": 2,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Leeds United",
+              "lst": 2,
+              "lstn": "2",
+              "lreg": 2,
+              "lot": 0,
+              "lap": 0,
+              "drw": 3,
+              "drwn": "3",
+              "gf": 7,
+              "ga": 9,
+              "gd": -2,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "9",
+              "Ipr": 0,
+              "Img": "enet/8463.png",
+              "pts": 9,
+              "pld": 7
+            },
+            {
+              "rnk": 15,
+              "Tid": "2918",
+              "win": 2,
+              "winn": "2",
+              "wreg": 2,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Brighton & Hove Albion",
+              "lst": 2,
+              "lstn": "2",
+              "lreg": 2,
+              "lot": 0,
+              "lap": 0,
+              "drw": 3,
+              "drwn": "3",
+              "gf": 6,
+              "ga": 8,
+              "gd": -2,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "9",
+              "Ipr": 0,
+              "Img": "enet/10204.png",
+              "pts": 9,
+              "pld": 7
+            },
+            {
+              "rnk": 16,
+              "Tid": "2865",
+              "win": 2,
+              "winn": "2",
+              "wreg": 2,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Brentford",
+              "lst": 4,
+              "lstn": "4",
+              "lreg": 4,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 8,
+              "ga": 9,
+              "gd": -1,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "7",
+              "Ipr": 0,
+              "Img": "enet/9937.png",
+              "pts": 7,
+              "pld": 7
+            },
+            {
+              "rnk": 17,
+              "Tid": "2986",
+              "win": 1,
+              "winn": "1",
+              "wreg": 1,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Newcastle United",
+              "lst": 3,
+              "lstn": "3",
+              "lreg": 3,
+              "lot": 0,
+              "lap": 0,
+              "drw": 4,
+              "drwn": "4",
+              "gf": 12,
+              "ga": 17,
+              "gd": -5,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "7",
+              "Ipr": 0,
+              "Img": "enet/10261.png",
+              "pts": 7,
+              "pld": 8
+            },
+            {
+              "rnk": 18,
+              "Tid": "3929",
+              "win": 2,
+              "winn": "2",
+              "wreg": 2,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Watford",
+              "lst": 5,
+              "lstn": "5",
+              "lreg": 5,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 10,
+              "ga": 17,
+              "gd": -7,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "7",
+              "Ipr": 0,
+              "Img": "enet/9817.png",
+              "pts": 7,
+              "pld": 8
+            },
+            {
+              "rnk": 19,
+              "Tid": "2882",
+              "win": 1,
+              "winn": "1",
+              "wreg": 1,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Burnley",
+              "lst": 2,
+              "lstn": "2",
+              "lreg": 2,
+              "lot": 0,
+              "lap": 0,
+              "drw": 3,
+              "drwn": "3",
+              "gf": 8,
+              "ga": 8,
+              "gd": 0,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "6",
+              "Ipr": 0,
+              "Img": "enet/8191.png",
+              "pts": 6,
+              "pld": 6
+            },
+            {
+              "rnk": 20,
+              "Tid": "2811",
+              "win": 1,
+              "winn": "1",
+              "wreg": 1,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Norwich City",
+              "lst": 4,
+              "lstn": "4",
+              "lreg": 4,
+              "lot": 0,
+              "lap": 0,
+              "drw": 2,
+              "drwn": "2",
+              "gf": 5,
+              "ga": 11,
+              "gd": -6,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "5",
+              "Ipr": 0,
+              "Img": "enet/9850.png",
+              "pts": 5,
+              "pld": 7
+            }
+          ],
+          "phrX": [
+            {
+              "V": 150,
+              "D": 1
+            },
+            {
+              "V": 211,
+              "D": 1
+            }
+          ]
+        },
+        {
+          "LTT": 3,
+          "team": [
+            {
+              "rnk": 1,
+              "Tid": "3340",
+              "win": 6,
+              "winn": "6",
+              "wreg": 6,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Liverpool",
+              "lst": 1,
+              "lstn": "1",
+              "lreg": 1,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 26,
+              "ga": 7,
+              "gd": 19,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "19",
+              "Ipr": 0,
+              "Img": "enet/8650.png",
+              "pts": 19,
+              "pld": 8
+            },
+            {
+              "rnk": 2,
+              "Tid": "2881",
+              "win": 6,
+              "winn": "6",
+              "wreg": 6,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Chelsea",
+              "lst": 1,
+              "lstn": "1",
+              "lreg": 1,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 17,
+              "ga": 5,
+              "gd": 12,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "19",
+              "Ipr": 0,
+              "Img": "enet/8455.png",
+              "pts": 19,
+              "pld": 8
+            },
+            {
+              "rnk": 3,
+              "Tid": "12633",
+              "win": 6,
+              "winn": "6",
+              "wreg": 6,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Manchester City",
+              "lst": 1,
+              "lstn": "1",
+              "lreg": 1,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 15,
+              "ga": 6,
+              "gd": 9,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "19",
+              "Ipr": 0,
+              "Img": "enet/8456.png",
+              "pts": 19,
+              "pld": 8
+            },
+            {
+              "rnk": 4,
+              "Tid": "252",
+              "win": 4,
+              "winn": "4",
+              "wreg": 4,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "West Ham United",
+              "lst": 2,
+              "lstn": "2",
+              "lreg": 2,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 12,
+              "ga": 7,
+              "gd": 5,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "13",
+              "Ipr": 0,
+              "Img": "enet/8654.png",
+              "pts": 13,
+              "pld": 7
+            },
+            {
+              "rnk": 5,
+              "Tid": "2985",
+              "win": 3,
+              "winn": "3",
+              "wreg": 3,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Wolverhampton Wanderers",
+              "lst": 2,
+              "lstn": "2",
+              "lreg": 2,
+              "lot": 0,
+              "lap": 0,
+              "drw": 2,
+              "drwn": "2",
+              "gf": 7,
+              "ga": 6,
+              "gd": 1,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "11",
+              "Ipr": 0,
+              "Img": "enet/8602.png",
+              "pts": 11,
+              "pld": 7
+            },
+            {
+              "rnk": 6,
+              "Tid": "2810",
+              "win": 3,
+              "winn": "3",
+              "wreg": 3,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Manchester United",
+              "lst": 2,
+              "lstn": "2",
+              "lreg": 2,
+              "lot": 0,
+              "lap": 0,
+              "drw": 2,
+              "drwn": "2",
+              "gf": 11,
+              "ga": 11,
+              "gd": 0,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "11",
+              "Ipr": 0,
+              "Img": "enet/10260.png",
+              "pts": 11,
+              "pld": 7
+            },
+            {
+              "rnk": 7,
+              "Tid": "2918",
+              "win": 2,
+              "winn": "2",
+              "wreg": 2,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Brighton & Hove Albion",
+              "lst": 1,
+              "lstn": "1",
+              "lreg": 1,
+              "lot": 0,
+              "lap": 0,
+              "drw": 5,
+              "drwn": "5",
+              "gf": 8,
+              "ga": 8,
+              "gd": 0,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "11",
+              "Ipr": 0,
+              "Img": "enet/10204.png",
+              "pts": 11,
+              "pld": 8
+            },
+            {
+              "rnk": 8,
+              "Tid": "2865",
+              "win": 2,
+              "winn": "2",
+              "wreg": 2,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Brentford",
+              "lst": 2,
+              "lstn": "2",
+              "lreg": 2,
+              "lot": 0,
+              "lap": 0,
+              "drw": 3,
+              "drwn": "3",
+              "gf": 9,
+              "ga": 10,
+              "gd": -1,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "9",
+              "Ipr": 0,
+              "Img": "enet/9937.png",
+              "pts": 9,
+              "pld": 7
+            },
+            {
+              "rnk": 9,
+              "Tid": "2901",
+              "win": 2,
+              "winn": "2",
+              "wreg": 2,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Leicester City",
+              "lst": 2,
+              "lstn": "2",
+              "lreg": 2,
+              "lot": 0,
+              "lap": 0,
+              "drw": 3,
+              "drwn": "3",
+              "gf": 11,
+              "ga": 13,
+              "gd": -2,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "9",
+              "Ipr": 0,
+              "Img": "enet/8197.png",
+              "pts": 9,
+              "pld": 7
+            },
+            {
+              "rnk": 10,
+              "Tid": "3339",
+              "win": 2,
+              "winn": "2",
+              "wreg": 2,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Tottenham Hotspur",
+              "lst": 3,
+              "lstn": "3",
+              "lreg": 3,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 5,
+              "ga": 9,
+              "gd": -4,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "7",
+              "Ipr": 0,
+              "Img": "enet/8586.png",
+              "pts": 7,
+              "pld": 6
+            },
+            {
+              "rnk": 11,
+              "Tid": "2773",
+              "win": 2,
+              "winn": "2",
+              "wreg": 2,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Arsenal",
+              "lst": 4,
+              "lstn": "4",
+              "lreg": 4,
+              "lot": 0,
+              "lap": 0,
+              "drw": 1,
+              "drwn": "1",
+              "gf": 5,
+              "ga": 14,
+              "gd": -9,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "7",
+              "Ipr": 0,
+              "Img": "enet/9825.png",
+              "pts": 7,
+              "pld": 7
+            },
+            {
+              "rnk": 12,
+              "Tid": "3929",
+              "win": 2,
+              "winn": "2",
+              "wreg": 2,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Watford",
+              "lst": 5,
+              "lstn": "5",
+              "lreg": 5,
+              "lot": 0,
+              "lap": 0,
+              "drw": 0,
+              "drwn": "0",
+              "gf": 10,
+              "ga": 12,
+              "gd": -2,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "6",
+              "Ipr": 0,
+              "Img": "enet/9817.png",
+              "pts": 6,
+              "pld": 7
+            },
+            {
+              "rnk": 13,
+              "Tid": "2772",
+              "win": 1,
+              "winn": "1",
+              "wreg": 1,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Crystal Palace",
+              "lst": 3,
+              "lstn": "3",
+              "lreg": 3,
+              "lot": 0,
+              "lap": 0,
+              "drw": 3,
+              "drwn": "3",
+              "gf": 9,
+              "ga": 14,
+              "gd": -5,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "6",
+              "Ipr": 0,
+              "Img": "enet/9826.png",
+              "pts": 6,
+              "pld": 7
+            },
+            {
+              "rnk": 14,
+              "Tid": "3143",
+              "win": 1,
+              "winn": "1",
+              "wreg": 1,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Leeds United",
+              "lst": 3,
+              "lstn": "3",
+              "lreg": 3,
+              "lot": 0,
+              "lap": 0,
+              "drw": 3,
+              "drwn": "3",
+              "gf": 6,
+              "ga": 11,
+              "gd": -5,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "6",
+              "Ipr": 0,
+              "Img": "enet/8463.png",
+              "pts": 6,
+              "pld": 7
+            },
+            {
+              "rnk": 15,
+              "Tid": "3863",
+              "win": 2,
+              "winn": "2",
+              "wreg": 2,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Aston Villa",
+              "lst": 5,
+              "lstn": "5",
+              "lreg": 5,
+              "lot": 0,
+              "lap": 0,
+              "drw": 0,
+              "drwn": "0",
+              "gf": 7,
+              "ga": 13,
+              "gd": -6,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "6",
+              "Ipr": 0,
+              "Img": "enet/10252.png",
+              "pts": 6,
+              "pld": 7
+            },
+            {
+              "rnk": 16,
+              "Tid": "2917",
+              "win": 1,
+              "winn": "1",
+              "wreg": 1,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Everton",
+              "lst": 4,
+              "lstn": "4",
+              "lreg": 4,
+              "lot": 0,
+              "lap": 0,
+              "drw": 2,
+              "drwn": "2",
+              "gf": 6,
+              "ga": 12,
+              "gd": -6,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "5",
+              "Ipr": 0,
+              "Img": "enet/8668.png",
+              "pts": 5,
+              "pld": 7
+            },
+            {
+              "rnk": 17,
+              "Tid": "2902",
+              "win": 1,
+              "winn": "1",
+              "wreg": 1,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Southampton",
+              "lst": 4,
+              "lstn": "4",
+              "lreg": 4,
+              "lot": 0,
+              "lap": 0,
+              "drw": 2,
+              "drwn": "2",
+              "gf": 6,
+              "ga": 14,
+              "gd": -8,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "5",
+              "Ipr": 0,
+              "Img": "enet/8466.png",
+              "pts": 5,
+              "pld": 7
+            },
+            {
+              "rnk": 18,
+              "Tid": "2811",
+              "win": 1,
+              "winn": "1",
+              "wreg": 1,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Norwich City",
+              "lst": 4,
+              "lstn": "4",
+              "lreg": 4,
+              "lot": 0,
+              "lap": 0,
+              "drw": 2,
+              "drwn": "2",
+              "gf": 3,
+              "ga": 17,
+              "gd": -14,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "5",
+              "Ipr": 0,
+              "Img": "enet/9850.png",
+              "pts": 5,
+              "pld": 7
+            },
+            {
+              "rnk": 19,
+              "Tid": "2882",
+              "win": 0,
+              "winn": "0",
+              "wreg": 0,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Burnley",
+              "lst": 4,
+              "lstn": "4",
+              "lreg": 4,
+              "lot": 0,
+              "lap": 0,
+              "drw": 4,
+              "drwn": "4",
+              "gf": 6,
+              "ga": 13,
+              "gd": -7,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "4",
+              "Ipr": 0,
+              "Img": "enet/8191.png",
+              "pts": 4,
+              "pld": 8
+            },
+            {
+              "rnk": 20,
+              "Tid": "2986",
+              "win": 0,
+              "winn": "0",
+              "wreg": 0,
+              "wot": 0,
+              "wap": 0,
+              "Tnm": "Newcastle United",
+              "lst": 4,
+              "lstn": "4",
+              "lreg": 4,
+              "lot": 0,
+              "lap": 0,
+              "drw": 3,
+              "drwn": "3",
+              "gf": 5,
+              "ga": 13,
+              "gd": -8,
+              "pf": 0,
+              "pa": 0,
+              "ptsn": "3",
+              "Ipr": 0,
+              "Img": "enet/10261.png",
+              "pts": 3,
+              "pld": 7
+            }
+          ],
+          "phrX": [
+            {
+              "V": 150,
+              "D": 1
+            },
+            {
+              "V": 211,
+              "D": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
