@@ -2,9 +2,14 @@ import requests
 import json
 
 
+#codes to know what did the player did
+codes = {36: 'Goal', 37: 'Pen goal', 63: 'Assist', 43: 'Yellow card'}
+
+#Player class no use for now
+
+
 class Player:
     Players_goals = {}
-    codes = {36: 'Goal', 37: 'Pen goal', 63: 'Assist', 43: 'Yellow card'}
 
     def __init__(self, Pname):
         self.Pname = Pname
@@ -23,6 +28,8 @@ class Player:
     def get_stat(self):
         pass
 
+#store the players in json file
+
 
 def store(players):
     teams = {}
@@ -34,6 +41,8 @@ def store(players):
     with open('results.json', 'w') as file:
         file.write(json.dumps(teams, indent=4))
     return teams
+
+#get the players from the GET request returns json file
 
 
 def get_players(Pjson):
@@ -52,11 +61,14 @@ def get_players(Pjson):
 
     return teams
 
+#request
+
 
 def request(url):
     r = requests.get(url)
     return r
 
 
+#for testing West Ham United vs Chelsea
 pl = store(get_players(request(
     'https://prod-public-api.livescore.com/v1/api/react/match-x/soccer/469055/3.00?MD=1')))
