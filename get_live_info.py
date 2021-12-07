@@ -1,9 +1,12 @@
 import requests
 import json
 import time
+
+#codes to know what did the player did
+
 codess = {'36': 'Goals', '37': 'Goals', '39': 'OG',
           '63': 'Assist', '43': 'Cards', '45': 'Cards'}
-#codes to know what did the player did
+
 codes = {'36': 1, '37': 1, '39': 1, '63': 1,
          '43': 'Yellow Card', '45': 'Red Card'}
 
@@ -97,7 +100,7 @@ def apply_stat(Pname, code, id):
         f.write(json.dumps(data))
 
 
-url = 'https://prod-public-api.livescore.com/v1/api/react/match-x/soccer/401155/3.00?MD=1'
+url = 'https://prod-public-api.livescore.com/v1/api/react/match-x/soccer/538461/3.00?MD=1'
 
 store(get_players(request(url)))
 
