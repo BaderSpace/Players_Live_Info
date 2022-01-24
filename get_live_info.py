@@ -1,7 +1,12 @@
 import requests
 import json
 import time
+import sys
 
+
+argv = sys.argv[1:]
+
+url = "https://prod-public-api.livescore.com/v1/api/react/match-x/soccer/535468/3.00?MD=1"
 #codes to know what did the player did
 
 codess = {'36': 'Goals', '37': 'Goals', '39': 'OG',
@@ -14,9 +19,10 @@ codes = {'36': 1, '37': 1, '39': 1, '63': 1,
 
 
 def store(players):
+    global name
     teams = {}
     y = 0
-    if len(teams) != 0:
+    if len(players) != 0:
         for k, kv in players.items():
 
             teams[team_names[y]] = [{x: {'OG': 0, 'Goals': 0, 'Assist': 0, 'Cards': ''}}
@@ -25,7 +31,8 @@ def store(players):
     else:
         for i in team_names:
             teams[i] = []
-    with open('results.json', 'w') as file:
+    name = f"{team_names[0]} Vs {team_names[1]}"
+    with open(f'{name}.json', 'w') as file:
         file.write(json.dumps(teams))
 
 #get the players from the GET request returns json file
@@ -69,6 +76,7 @@ def get_players(Pjson):
             y += 1
     except:
         pass
+
     return teams
 
 #request
@@ -76,12 +84,21 @@ def get_players(Pjson):
 
 def missing_players(Player_name, code, eventid):
 
-    with open('results.json', 'r') as f:
+    with open(f"{name}.json", 'r') as f:
         data = json.loads(f.read())
 
-    with open('results.json', 'w') as f:
+    with open(f"{name}.json", 'w') as f:
         ss = list(data)
-        data[ss[eventid - 1]].append({Player_name: {'OG': 0, 'Goals': 0, 'Assist': 0, 'Cards': ''}})
+        if code == '39':
+            if eventid == 1:
+                data[ss[eventid]
+                     ].append({Player_name: {'OG': 0, 'Goals': 0, 'Assist': 0, 'Cards': ''}})
+            else:
+                pass
+        else:
+            data[ss[eventid - 1]
+                 ].append({Player_name: {'OG': 0, 'Goals': 0, 'Assist': 0, 'Cards': ''}})
+
         f.write(json.dumps(data))
     apply_stat(Player_name, code, eventid)
     pass
@@ -147,7 +164,7 @@ def get_stat(url):
 
 
 def apply_stat(Pname, code, eventid):
-    with open('results.json', 'r') as f:
+    with open(f"{name}.json", 'r') as f:
         data = json.loads(f.read())
         for k, v in data.items():
             for i in v:
@@ -160,7 +177,7 @@ def apply_stat(Pname, code, eventid):
                             pass
                         ss[codess[code]] += codes[code]
                         print(ss, Pname)
-                        with open('results.json', 'w') as f:
+                        with open(f"{name}.json", 'w') as f:
                             f.write(json.dumps(data))
                         return
                     else:
@@ -168,25 +185,20 @@ def apply_stat(Pname, code, eventid):
     missing_players(Pname, code, eventid)
 
 
-
-
-url = 'https://prod-public-api.livescore.com/v1/api/react/match-x/soccer/590422/3.00?MD=1'
-
-store(get_players(request(url)))
-
-
 def main():
     global Hashes
     Hashes = []
+    store(get_players(request(url)))
     r = request(url)
     data = json.loads(r.text)
     while data['Eps'] != 'FT':
         data = json.loads(request(url).text)
-
         print(data['Eps'])
         get_stat(url)
-
         time.sleep(60)
 
 
-main()
+try:
+    main()
+except Exception as e:
+    print(e)
